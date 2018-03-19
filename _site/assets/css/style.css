@@ -660,7 +660,8 @@ a {
       font-size: 1rem; } }
 
 .main-content {
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  text-align: justify; }
   .main-content :first-child {
     margin-top: 0; }
   @media screen and (min-width: 64em) {
@@ -668,7 +669,7 @@ a {
       max-width: 64rem;
       padding: 2rem 6rem;
       margin: 0 auto;
-      font-size: 1.1rem; } }
+      font-size: 0.9rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .main-content {
       padding: 2rem 4rem;

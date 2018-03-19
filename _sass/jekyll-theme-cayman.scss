@@ -142,6 +142,7 @@ a {
 
 .main-content {
   word-wrap: break-word;
+  text-align: justify;
 
   :first-child {
     margin-top: 0;
@@ -151,7 +152,7 @@ a {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
   }
 
   @include medium {
