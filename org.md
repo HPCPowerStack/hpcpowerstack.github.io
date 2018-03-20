@@ -7,4 +7,6 @@ Organizers:
 *   Masaaki Kondo, University of Tokyo, Japan
 *   Tapasya Patki, Lawrence Livermore National Laboratory, USA
 
-[back](./)
+Contact: Martin Schulz, schulzm@in.tum.de
+
+[Back](./)
