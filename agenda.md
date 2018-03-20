@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-Arrival in Tuesday in Burghausen.
-
-# [](#header-1)Day 1: Overall Concepts
+## [](#header-2)Day 1: Overall Concepts
 
 8:30AM: 
 *  Introductions
@@ -29,7 +27,7 @@ Dinner
 *  Have a diagram with the building blocks
 *  Know which interfaces are needed
 
-# [](#header-1)Day 2: System Integration Questions
+## [](#header-2)Day 2: System Integration Questions
 
 8:30AM:
 *  Knobs, different vendors : differences and similarities, limitations
@@ -47,11 +45,11 @@ Lunch at Monastery
 6:00PM
 Dinner (non sponsored)
 
-### [](#header-3) Goal for Day 2: 
+### [](#header-3) Goals for Day 2: 
 *  Understand measurement and control challenges, gaps in system software
 *  Identify APIs at different levels
 
-# [](#header-1)Day 3: Bringing it all together
+## [](#header-2)Day 3: Bringing it all together
 
 8:30AM: 
 *  Reports from API breakouts, 4-5 groups
