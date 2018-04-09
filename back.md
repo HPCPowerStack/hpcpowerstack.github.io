@@ -10,7 +10,7 @@ In this seminar, our goal is bring together experts from academia, research labo
 
 <br/>
 
-![](PowerStack.png)
+![](PowerStack_v2.png)
 
 <br/>
 Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which will be discussed and defined extensively in the proposed seminary, are listed below:
