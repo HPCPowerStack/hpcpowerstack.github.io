@@ -9,7 +9,7 @@ Travel to Burghausen is possible via train from Munich and takes about two hours
 
 ## [](#header-1)Accomodation
 
-Accomodation will be in Burghausen. We will reserve a room block for the seminar at a reasonable cost, but attendees will be responsible for their own accomodation expenses. Transfer from the hotel to the venue and back will be provided.
+Accomodation will be in Burghausen in hotel <A HREF=http://www.hotel-gloecklhofer.de/">Gloecklhofer</a>. We have reserved a room block for the seminar at 84 Euros per night (single room, incl. breakfast), but attendees will be responsible for their own accomodation expenses. Transfer from the hotel to the venue and back will be provided.
 More details will be posted shortly.
 
 ## [](#header-1)Seminar Registration and Cost
