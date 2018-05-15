@@ -1,12 +1,20 @@
 ---
 layout: default
 ---
-Organizers:
-*   Martin Schulz, Technical University Munich, Germany
-*   Jonathan Eastep, Intel Corporation, USA
-*   Masaaki Kondo, University of Tokyo, Japan
-*   Tapasya Patki, Lawrence Livermore National Laboratory, USA
+## [](#header-2)Organizers
 
-Contact: Martin Schulz, schulzm@in.tum.de
+*   Martin Schulz, Technical University Munich, Germany
+*   Tapasya Patki, Lawrence Livermore National Laboratory, USA
+*   Masaaki Kondo, University of Tokyo, Japan
+*   Jonathan Eastep, Intel Corporation, USA
+
+
+## [](#header-3)Contact
+
+Martin Schulz, schulzm - at - in.tum.de
+
+## [](#header-3)Logistics
+
+Beate Hinterwimmer, hiwi - at - tum.de
 
 [Back](./)
