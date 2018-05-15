@@ -20,7 +20,7 @@ Lunch at Monastery
 *  Refinement of strawman
 
 6:00PM
-Dinner
+Dinner (non sponsored)
 
 ### [](#header-3) Goals for Day 1: 
 *  Have a clear set of requirements
