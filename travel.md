@@ -10,7 +10,7 @@ Attendance is on an invitation-only basis and no explicit registration or regist
 
 Travel to Burghausen is possible via train from Munich and takes about two hours. Most itineraries require switching in the town of Muehldorf. It is recommended to arrive at Burghausen latest in time for dinner on Tuesday. Return travel to Munich after the seminar on Friday can be organized in groups during the seminar.
 
-More information on train schedules is at <A HREF="https://www.bahn.com/en/view/index.shtml">BAHN.DE</a>. Sample schedules are available through this <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=4041&protocol=https:&seqnr=2&ident=m7.01529541.1526554398&rt=1&rememberSortType=minDeparture&REQ0HafasScrollDir=1">query</a>.
+More information on train schedules is at <A HREF="https://www.bahn.com/en/view/index.shtml">BAHN.DE</a>. Trains leave Munich Main Trainstation (HBF) almost hourly (final destination Mühldorf or Simbach (Inn) - you will need to change in Mühldorf for the train to Burghausen.
 
 In Burghausen it is a short 15min (1.1km) walk from the trains station to the hotel (see <a href="https://www.google.com/maps/dir/Burghausen,+84489+Burghausen,+Germany/Hotel+Glocklhofer,+Ludwigsberg,+Burghausen,+Germany/@48.1702459,12.8246652,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4775ce1100e5fb73:0x6fb0e475107651f8!2m2!1d12.8284694!2d48.1738909!1m5!1m1!1s0x4775ce0473780e8d:0xeaa559646209eaee!2m2!1d12.8324229!2d48.166132!3e2">map</a>).
 
