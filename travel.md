@@ -18,7 +18,6 @@ Alternatively, arrival by car is possible as well. Their is free uncovered parki
 
 If you intend to continue to ISC in Frankfurt after the seminar by publict transort, most likely the best connections are through Munich. Same day travel all the way to Frankfurt is possible via ICE train service from Munich, but will likely result in a late arrival time.
 
-Alternatively
 
 ## [](#header-1)Accomodation
 
