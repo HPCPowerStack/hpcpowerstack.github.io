@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
+## [](#header-2)Ahead of the Seminar
+
+* We will send out a strawman as the basis of discussion - please take a look at it.
+* Please prepare a 2 slide / 3 minute presentation with one slide covering you, your background and your epxertise and one slide showing how you git into the strawman.
+* If you want to provide a presentation covering feedback or criticism on the strawman or covering gaps, please contact us.
+
 ## [](#header-2)Day 1: Overall Concepts
 
-8:30AM: 
+8:30AM:
 *  Introductions
 *  Goals and Expectations
 *  Break (10:15-10:30)
