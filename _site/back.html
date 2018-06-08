@@ -49,6 +49,40 @@
 Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which will be discussed and defined extensively in the proposed seminary, are listed below:</p>
 
 <ul>
+<li> Holistically coordinate power optimizations across the
+whole system in a scalable manner
+<li>Ensure safe operation within electrical operating
+parameters, must include protective layers to enable
+scenarios where system power caps are hard limits that
+must be enforced at all times 
+<li>Implementations must be open source with a flexible
+(not-sticky) software license to enable commercial as
+well as research uses
+<li>Must be cross-platform to avoid locking users to
+hardware from a specific vendor
+<li>Must be production-grade and easily deployable through
+standard package management interfaces  
+<li>Must be extensible (e.g. through plugins) to support
+diverse preferences at different HPC centers and
+facilitate rapid prototyping of new power, energy or
+performance optimization techniques
+<li>Must be able to integrate components from multiple
+vendors and developers using a set of well-defined and
+possibly standardized interfaces</li>
+<li>Must support real-time monitoring and control in order
+to adapt to dynamic scenarios. These can be
+system-level (more or less power at the system level
+due to power supply or node failures), or
+application-level (critical path, CPU/memory
+boundedness, manufacturing variation in the allocation,
+load imbalance, etc.)</li> 
+</ul>
+
+
+
+
+<!--
+<ul>
   <li>Measurement and control mechanisms may use different underlying techniques (power capping versus frequency scaling) as well as different granularities (ranging from one millisecond to several hundred milliseconds) depending on the underlying node-level component and the vendor. How do we integrate data collected across different granularities? How do we decide on the granularities and frequencies of measurement and control?</li>
   <li>How do we compress, store and query measured application profile data?</li>
   <li>How do we expose a common vendor-neutral API to the job-level runtime system given the various underlying vendor-specific mechanisms?</li>
@@ -57,7 +91,7 @@ Design and development of the PowerStack in a scalable, conflict-free and low-ov
   <li>How do we define the communication protocol across these levels?</li>
   <li>How do we address the security aspects of such a power stack? What levels of measurement and control should be exposed to the application developer and the users?</li>
 </ul>
-
+--!>
 
       <footer class="site-footer">
         
