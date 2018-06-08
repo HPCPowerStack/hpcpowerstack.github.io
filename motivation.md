@@ -7,15 +7,16 @@ In this seminar, our goal is bring together experts from academia, research labo
 
 <br/>
 
-![](PowerStack.png)
+![](PowerStack_v2.png)
 
 <br/>
 Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which will be discussed and defined extensively in the proposed seminary, are listed below:
 
-*   Measurement and control mechanisms may use different underlying techniques (power capping versus frequency scaling) as well as different granularities (ranging from one millisecond to several hundred milliseconds) depending on the underlying node-level component and the vendor. How do we integrate data collected across different granularities? How do we decide on the granularities and frequencies of measurement and control? 
-*   How do we compress, store and query measured application profile data? 
-*   How do we expose a common vendor-neutral API to the job-level runtime system given the various underlying vendor-specific mechanisms?
-*   How do we balance user priorities, fairness and charging requirements when maximizing for better utilization and throughput in job schedulers?
-*   How do we ensure safe operation and trust among the management levels? How do we resolve conflicts while ensuring safe operation?
-*   How do we define the communication protocol across these levels? 
-*   How do we address the security aspects of such a power stack? What levels of measurement and control should be exposed to the application developer and the users?
+*   Holistically coordinate power optimizations across the whole system in a scalable manner
+*   Ensure safe operation within electrical operating parameters, must include protective layers to enable scenarios where system power caps are hard limits that must be enforced at all times
+*   Implementations must be open source with a flexible (not-sticky) software license to enable commercial as well as research uses
+*   Must be cross-platform to avoid locking users to hardware from a specific vendor
+*   Must be production-grade and easily deployable through standard package management interfaces
+*   Must be extensible (e.g. through plugins) to support diverse preferences at different HPC centers and facilitate rapid prototyping of new power, energy or performance optimization techniques
+*   Must be able to integrate components from multiple vendors and developers using a set of well-defined and possibly standardized interfaces
+*   Must support real-time monitoring and control in order to adapt to dynamic scenarios. These can be system-level (more or less power at the system level due to power supply or node failures), or application-level (critical path, CPU/memory boundedness, manufacturing variation in the allocation, load imbalance, etc.)
