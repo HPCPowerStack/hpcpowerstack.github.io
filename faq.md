@@ -51,10 +51,10 @@ The charter of the PowerAPI community is to design and develop a <i>standardized
 
 The charter of the Power Stack community is to design a holistic, flexible and extensible concept of a <i>software stack ecosystem</i> Its charter is to: (1) identify what are the different actors within the software stack that are responsible for driving energy/power efficiency (2) get a consensus within the community about what are the roles and responsibilities of each of these actors (3) how can these actors collaborate with each other while implementing an end-to-end solution for system efficiency (4) aid in software-hardware co-design and engineering that is compatible with the stack.
  
-<i>Input from the PowerAPI + PowerStack members: </i>
+<i>Input from the PowerAPI + PowerStack members: </i><br/>
 Power API is a specification that allows applications, system software, and tools to have a portable, hardware/vendor-agnostic interface to the power/energy monitoring and management capabilities of a system. HPC Power Stack is a stack of hierarchical software and firmware components that optimize system-level power/energy consumption through coordinated optimization of power/energy at different granularities in the system. Where suitable, the Power Stack efforts will influence and adhere to interfaces in the Power API specification for information exchange between components.
  
-<i>Example of a use-case: </i>
+<i>Example of a use-case: </i><br/>
 Assume there exists a system with compute nodes that expose power capping knobs to the software stack. Assume a site policy where user-jobs are required to execute under a predetermined power budget.
  
 The PowerAPI spec provides specific function calls that can be used to implement solutions where either the job scheduler or a job runtime or both could access the hardware knobs for enforcing the power budget. Since the actual access to the knobs would vary from one vendor to another, the PowerAPI's plugin-in interface enables the job scheduler and a job runtime to remain oblivious of the underlying implementation.
