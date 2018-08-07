@@ -15,3 +15,6 @@ Nestled in the beautiful Bavarian landscape flanking the river Salzach, the form
 <img src="/burghausen.jpg">
 </center>
 {:/}
+
+
+[Back](./)

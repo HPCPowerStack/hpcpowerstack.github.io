@@ -37,7 +37,7 @@ The PowerStack team intends to leverage existing well-engineered solutions when 
 <ul>
 <li> PowerAPI (specifications with focus on node-level design) </li>
 <li> EEHPCWG JSRM (focus on site-level job scheduling policies) </li>
-<ul>
+</ul>
 
 
 
