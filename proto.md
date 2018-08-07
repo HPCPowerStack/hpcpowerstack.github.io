@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<a href="strawman.pdf"><h2> Initial Strawman Document </h2></a>
+
 The PowerStack team intends to leverage existing well-engineered solutions when designing and implementing interfaces that work through various layers of the stack. Here, we list state-of-the art software for power management that we are exploring and intending to extend as a part of this approach.
 
 

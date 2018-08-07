@@ -23,7 +23,7 @@ For Step-(c) - as a starting point - the Power Stack team chose to leverage exis
  
 Step-(d) is still a work-in-progress
  
-Initial strawman for Step-(e) can be found here. 
+Initial strawman for Step-(e) can be found <a href="strawman.pdf">here.</a> 
 
 Step-(f) took the form of an invitational Power Stack seminar, the week before ISC18 in Raitenhaslach, Germany. Due to space constraints at the venue, the attendance was limited to about 40 representatives from labs, academia, and vendors that have played a key role in designing the different layers of the HPC stack.
 
