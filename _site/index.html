@@ -4,17 +4,15 @@
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>HPC PowerStack | Website for the Raitenhaslach Seminar, June 20 to June 22, 2018, Germany.</title>
+<title>The HPC PowerStack</title>
 <meta name="generator" content="Jekyll v3.6.2" />
-<meta property="og:title" content="HPC PowerStack" />
+<meta property="og:title" content="The HPC PowerStack" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Website for the Raitenhaslach Seminar, June 20 to June 22, 2018, Germany." />
-<meta property="og:description" content="Website for the Raitenhaslach Seminar, June 20 to June 22, 2018, Germany." />
 <link rel="canonical" href="http://localhost:4000/" />
 <meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="HPC PowerStack" />
+<meta property="og:site_name" content="The HPC PowerStack" />
 <script type="application/ld+json">
-{"headline":"HPC PowerStack","description":"Website for the Raitenhaslach Seminar, June 20 to June 22, 2018, Germany.","name":"HPC PowerStack","@type":"WebSite","url":"http://localhost:4000/","@context":"http://schema.org"}</script>
+{"url":"http://localhost:4000/","headline":"The HPC PowerStack","name":"The HPC PowerStack","@type":"WebSite","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,17 +22,22 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">The HPC PowerStack - An Attempt at Standardization and/or Homogenization</h1>
-      <h2 class="project-tagline">June 20 to June 22, 2018, Akademiezentrum Raitenhasslach, Germany.</h2>
+      <h1 class="project-name">The HPC PowerStack</h1>
+	<h2 class="project-tagline">A Path to Standardization and/or Homogenization?</h2>
+	<!-- 
+	 <h2 class="project-tagline"></h2>
+	-->
+
+	<a href="http://powerstack.lrr.in.tum.de" class="btn">Home</a>
+	<a href="http://powerstack.lrr.in.tum.de/raitenhaslach.html" class="btn">Raitenhaslach</a>
+	<a href="http://powerstack.lrr.in.tum.de/proto.html" class="btn">Prototypes</a>
+        <a href="http://powerstack.lrr.in.tum.de/org.html" class="btn">Members</a>
+	<!-- 	
+	<a href="http://powerstack.lrr.in.tum.de/agenda.html" class="btn">Agenda</a>
+	<a href="http://powerstack.lrr.in.tum.de/travel.html" class="btn">Travel</a>
+	-->
       
-      
-	<a href="https://hpcpowerstack.lrr.in.tum.de" class="btn">Home</a>
-        <a href="https://hpcpowerstack.lrr.in.tum.de/back.html" class="btn">Background</a>
-	<a href="https://hpcpowerstack.lrr.in.tum.de/org.html" class="btn">Organizers</a>
-	<a href="https://hpcpowerstack.lrr.in.tum.de/agenda.html" class="btn">Agenda</a>
-	<a href="https://hpcpowerstack.lrr.in.tum.de/travel.html" class="btn">Travel</a>
-      
-    </section>
+</section>
 
     <section class="main-content">
       <p>The landscape of high-performance computing (HPC) is changing as we enter the exascale era. Power and energy management are key design points for the next generation of supercomputers. Efficiently utilizing procured power and optimizing performance of scientific applications under power and energy constraints is challenging due to several reasons, such as the dynamic phase behavior of applications, processor manufacturing variability, and increasing heterogeneity of node-level components. While several scattered research efforts to manage power and energy exist, a majority of these efforts are site-specific, require programmer effort, and often result in suboptimal application performance and system throughput. Additionally, these interfaces are not designed to cooperate or work together in an integrated manner, creating conflicts between various layers of a software stack. A holistic, generalizable and extensible approach to power management is still missing in the HPC community.</p>
@@ -46,55 +49,41 @@
 <p><img src="PowerStack_v2.png" alt="" /></p>
 
 <p><br />
-Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which will be discussed and defined extensively in the proposed seminary, are listed below:</p>
+Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which will be discussed and defined extensively in the proposed seminar, are listed below:</p>
 
 <ul>
-<li> Holistically coordinate power optimizations across the
-whole system in a scalable manner</li>
-<li>Ensure safe operation within electrical operating
-parameters, must include protective layers to enable
-scenarios where system power caps are hard limits that
-must be enforced at all times</li>
-<li>Implementations must be open source with a flexible
-(not-sticky) software license to enable commercial as
-well as research uses</li>
-<li>Must be cross-platform to avoid locking users to
-hardware from a specific vendor</li>
-<li>Must be production-grade and easily deployable through
-standard package management interfaces</li>
-<li>Must be extensible (e.g. through plugins) to support
-diverse preferences at different HPC centers and
-facilitate rapid prototyping of new power, energy or
-performance optimization techniques</li>
-<li>Must be able to integrate components from multiple
-vendors and developers using a set of well-defined and
-possibly standardized interfaces</li>
-<li>Must support real-time monitoring and control in order
-to adapt to dynamic scenarios. These can be
-system-level (more or less power at the system level
-due to power supply or node failures), or
-application-level (critical path, CPU/memory
-boundedness, manufacturing variation in the allocation,
-load imbalance, etc.)</li> 
+  <li>Holistically coordinate power optimizations across the whole system in a scalable manner</li>
+  <li>Ensure safe operation within electrical operating parameters, must include protective layers to enable scenarios where system power caps are hard limits that must be enforced at all times</li>
+  <li>Implementations must be open source with a flexible (not-sticky) software license to enable commercial as well as research uses</li>
+  <li>Must be cross-platform to avoid locking users to hardware from a specific vendor</li>
+  <li>Must be production-grade and easily deployable through standard package management interfaces</li>
+  <li>Must be extensible (e.g. through plugins) to support diverse preferences at different HPC centers and facilitate rapid prototyping of new power, energy or performance optimization techniques</li>
+  <li>Must be able to integrate components from multiple vendors and developers using a set of well-defined and possibly standardized interfaces</li>
+  <li>Must support real-time monitoring and control in order to adapt to dynamic scenarios. These can be system-level (more or less power at the system level due to power supply or node failures), or application-level (critical path, CPU/memory boundedness, manufacturing variation in the allocation, load imbalance, etc.)</li>
 </ul>
 
-
-<!--
-<ul>
-  <li>Measurement and control mechanisms may use different underlying techniques (power capping versus frequency scaling) as well as different granularities (ranging from one millisecond to several hundred milliseconds) depending on the underlying node-level component and the vendor. How do we integrate data collected across different granularities? How do we decide on the granularities and frequencies of measurement and control?</li>
-  <li>How do we compress, store and query measured application profile data?</li>
-  <li>How do we expose a common vendor-neutral API to the job-level runtime system given the various underlying vendor-specific mechanisms?</li>
-  <li>How do we balance user priorities, fairness and charging requirements when maximizing for better utilization and throughput in job schedulers?</li>
-  <li>How do we ensure safe operation and trust among the management levels? How do we resolve conflicts while ensuring safe operation?</li>
-  <li>How do we define the communication protocol across these levels?</li>
-  <li>How do we address the security aspects of such a power stack? What levels of measurement and control should be exposed to the application developer and the users?</li>
-</ul>
--->
 
       <footer class="site-footer">
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
+	<center>
+	<p>
+	<img src="/tum-s.png" alt="TUM" height=50>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="/llnl.png" alt="LLNL" height=50>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="/tokyo.png" alt="U of Tokyo" height=50>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="/intel.jpg" alt="Intel" height=50>
+	</p>
+	<p>
+	Impressum: <a href="https://www.tum.de/die-tum/kontakt-und-anfahrt/impressum/">TU Munich</a>, 
+		   <a href="http://www.in.tum.de/impressum/">Department for Informatics</a>, 
+	    	   <a href="http://www.lrr.in.tum.de/startseite/">Lehrstuhl I-10 (LRR)</a>, 
+		   Contact: <a href="http://www.lrr.in.tum.de/mitarbeiter/martin-schulz/">Martin Schulz</a>
+	<br>
+	<a href="https://www.tum.de/datenschutz/">Datenschutz</a>
+	</p>
+	</center>
+	</footer>
     </section>
 
     
