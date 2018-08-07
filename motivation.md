@@ -10,7 +10,7 @@ In this seminar, our goal is bring together experts from academia, research labo
 ![](PowerStack_v2.png)
 
 <br/>
-Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which will be discussed and defined extensively in the proposed seminary, are listed below:
+Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which will be discussed and defined extensively in the proposed seminar, are listed below:
 
 *   Holistically coordinate power optimizations across the whole system in a scalable manner
 *   Ensure safe operation within electrical operating parameters, must include protective layers to enable scenarios where system power caps are hard limits that must be enforced at all times
