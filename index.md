@@ -20,3 +20,23 @@ Design and development of the PowerStack in a scalable, conflict-free and low-ov
 *   Must be extensible (e.g. through plugins) to support diverse preferences at different HPC centers and facilitate rapid prototyping of new power, energy or performance optimization techniques
 *   Must be able to integrate components from multiple vendors and developers using a set of well-defined and possibly standardized interfaces
 *   Must support real-time monitoring and control in order to adapt to dynamic scenarios. These can be system-level (more or less power at the system level due to power supply or node failures), or application-level (critical path, CPU/memory boundedness, manufacturing variation in the allocation, load imbalance, etc.)
+
+
+## [](#header-2)Key Members (alphabetical order)
+
+● Christopher Cantalupo, Intel Corporation, USA <br/>
+● Jonathan Eastep, Intel Corporation, USA <br/>
+● Siddhartha Jana, Energy Efficient High Performance Computing Working Group, Global <br/>
+● Masaaki Kondo, University of Tokyo, Japan <br/>
+● Matthias Maiterth, Ludwig-Maximilians University, Germany <br/>
+● Aniruddha Marathe, Lawrence Livermore National Laboratory, USA <br/>
+● Tapasya Patki, Lawrence Livermore National Laboratory, USA <br/>
+● Barry Rountree, Lawrence Livermore National Laboratory, USA <br/>
+● Ryuichi Sakamoto, University of Tokyo, Japan <br/>
+● Martin Schulz, Technical University Munich, Germany <br/>
+● Carsten Trinitis, Technical University Munich, Germany <br/>
+
+## [](#header-3)Contact
+
+Martin Schulz, schulzm - at - in.tum.de
+
