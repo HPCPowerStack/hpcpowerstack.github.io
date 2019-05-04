@@ -1,29 +1,32 @@
 ---
 layout: default
 ---
-Activities at ISC'19.
+<h2>The First Annual Workshop for HPC PowerStack</h2>
+<h4>A Community-Driven Effort to Enable System-wide Power Efficiency</h4>
 
+Thursday, June 20, 2019<br>
+9AM -- 6PM<br>
+Gold 2<br>
 
-<h4>Sunday, June 16</h4>
-Tutorial: Boosting Power Efficiency of HPC Applications with GEOPM <br/>
-Time: 9AM -- 1PM <br/>
-Location: Extrakt <br/>
+<h3>Motivation</h3>
+Although there exist several standalone efforts that attempt to tackle exascale
+power challenges, the majority of the state-of-the-art implemented techniques
+have been designed to meet site-specific needs or optimization goals. Community
+specifications such as the PowerAPI and Redfish provide high-level power
+management interfaces for accessing power knobs. However, these stop short of
+defining which software components should actually be involved, and how should
+they interoperate with each other in a cohesive and coordinated stack. We
+believe coordination among these components is critical for avoiding
+underutilization of system Watts and FLOPS.
 
-<h4>Monday, June 17</h4>
-Birds of a Feather: The HPC PowerStack: A Community-driven Collaboration Toward a Software Stack for Power and Energy Efficiency <br/>
-Time: 2PM -- 3PM <br/>
-Location: Kontrast <br/>
-
-<h4>Tuesday, June 18</h4>
-TBD <br/>
-
-<h4>Wednesday, June 19</h4>
-TBD <br/>
-
-<h4>Thursday, June 20</h4>
-Workshop: The First Annual Workshop for HPC PowerStack <br/>
-Time: 9AM -- 6PM <br/>
-Location: Gold 2 <br/>
+The above realization led to the formation of the HPC PowerStack Community in 2016. The charter of this community has been to:
+<ul>
+<li>Identify the key software actors needed in a system power stack: job-schedulers, application-level runtime, hardware knobs;</li>
+<li>Identify their respective privileges, roles, and responsibilities;</li>
+<li>Design communication protocols for bidirectional control and feedback signals among them to enable scalable coordination at different granularities;</li>
+<li>Design mechanisms for actors to access privileged hardware controls and monitors to ensure stable closed-loop optimization;</li>
+<li>Study and combine existing ad-hoc engineering and development prototypes and build a community that actively participates in well-engineered, scalable and deployable solutions.</li>
+</ul>
 
 
 [Back](./)
