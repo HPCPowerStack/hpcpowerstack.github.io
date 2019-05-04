@@ -11,7 +11,7 @@ The mailing lists for the PowerStack initiative have been organized as follows
 <h3> Mailing lists specific to Working Groups (WG) </h3>
 <ul> 
     <li> [WG1] PowerStack site-level policy: Communication of site-level policy between facility managers and workload managers.<br>
-            <a href="mailto:powerstack-sitepolicy@googlegroups.com>powerstack-sitepolicy@googlegroups.com</a> </li><br> 
+            <a href="mailto:powerstack-sitepolicy@googlegroups.com">powerstack-sitepolicy@googlegroups.com</a> </li><br> 
     <li> [WG2] PowerStack Adaptive/Runtime control: Interoperability between workload managers, job managers, and platform managers. <br>
             <a href="mailto:powerstack-runtime@googlegroups.com">powerstack-runtime@googlegroups.com</a></li><br>
     <li> [WG3] PowerStack platform interaction: Design of platform manager while accounting for access mechanisms of hardware and software monitor + control knobs.<br>
