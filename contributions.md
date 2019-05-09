@@ -2,28 +2,28 @@
 layout: default
 ---
 
-## Git repo for capturing meeting notes, collaboration progress, publications, etc: https://gitlab.com/powerstack
+<h2> Mailing lists </h2>
+The mailing lists for the PowerStack initiative have been organized as follows
 
-## PowerStack website (updates in progress): https://powerstack.lrr.in.tum.de/
+<h3> General announcements </h3> <a href="mailto:powerstack-announce@googlegroups.com">powerstack-announce@googlegroups.com</a>
+<h3> Developer forum </h3> <a href="powerstack-dev@googlegroups.com">powerstack-dev@googlegroups.com</a> 
 
-## Slack channel for discussion: https://powerstack.slack.com
+<h3> Mailing lists specific to Working Groups (WG) </h3>
+<ul> 
+    <li> [WG1] PowerStack site-level policy: Communication of site-level policy between facility managers and workload managers.<br>
+            <a href="mailto:powerstack-sitepolicy@googlegroups.com">powerstack-sitepolicy@googlegroups.com</a> </li><br> 
+    <li> [WG2] PowerStack Adaptive/Runtime control: Interoperability between workload managers, job managers, and platform managers. <br>
+            <a href="mailto:powerstack-runtime@googlegroups.com">powerstack-runtime@googlegroups.com</a></li><br>
+    <li> [WG3] PowerStack platform interaction: Design of platform manager while accounting for access mechanisms of hardware and software monitor + control knobs.<br>
+            <a href="mailto:powerstack-platform@googlegroups.com">powerstack-platform@googlegroups.com</a></li><br>
+</ul>
 
+<hr>
+<h2> Git repository for meeting notes, collaboration progress, publications, etc. </h2>
+<a href="https://gitlab.com/powerstack">https://gitlab.com/powerstack</a>
 
-## Mailing lists for announcements: powerstack-announce@googlegroups.com 
-## Mailing lists for development:   powerstack-dev@googlegroups.com
-
-## Mailing lists specific to Working Groups (WG):
--- WG1: PowerStack Site-level policy
-Mailing list: powerstack-sitepolicy@googlegroups.com
-Focus: Communication of site-level policies between facility managers and workload managers.
-
--- WG2: PowerStack Adaptive/Runtime control
-Mailing list: powerstack-runtime@googlegroups.com 
-Focus: Interoperability between workload managers, job managers, and platform managers.
-
--- WG3: PowerStack platform interaction
-Mailing list: powerstack-platform@googlegroups.com
-Focus: Design of platform manager while accounting for access mechanisms of hardware and software monitor + control knobs.
+<h2> Slack channel for discussion</h2>
+<a href="https://powerstack.slack.com">https://powerstack.slack.com</a>
 
 {::nomarkdown}
 {:/}
