@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<h1 align="center">Previous and Upcoming Events</h1>
 
 <h2>ISC: June 16-20, 2019</h2>
 
@@ -39,15 +40,21 @@ layout: default
 
 </ul>
 
+<hr>
+
 <h2>PowerStack Seminar: June 12-14, 2019</h2>
 <ul>
 <li><a href="https://hpcpowerstack.github.io/seminar.html">Seminar Info</a></li>
 </ul>
 
+<hr>
+
 <h2>SC: November 11-16, 2018</h2>
 <ul>
 <li><a href="https://sc18.supercomputing.org/presentation/?id=bof217&sess=sess450">Collaboration Toward a Software Stack for System Power Optimization: The HPC PowerStack</a></li>
 </ul>
+
+<hr>
 
 <h2>PowerStack Seminar: June 20-22, 2018</h2>
 <ul>

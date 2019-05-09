@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h1 align="center">Contributions</h1>
+
 <h2> Mailing lists </h2>
 The mailing lists for the PowerStack initiative have been organized as follows
 
