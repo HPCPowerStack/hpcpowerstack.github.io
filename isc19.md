@@ -21,11 +21,17 @@ underutilization of system Watts and FLOPS.
 
 The above realization led to the formation of the HPC PowerStack Community in 2016. The charter of this community has been to:
 <ul>
-<li>Identify the key software actors needed in a system power stack: job-schedulers, application-level runtime, hardware knobs;</li>
+<li>Identify the key software actors needed in a system power stack:
+job-schedulers, application-level runtime, hardware knobs;</li>
 <li>Identify their respective privileges, roles, and responsibilities;</li>
-<li>Design communication protocols for bidirectional control and feedback signals among them to enable scalable coordination at different granularities;</li>
-<li>Design mechanisms for actors to access privileged hardware controls and monitors to ensure stable closed-loop optimization;</li>
-<li>Study and combine existing ad-hoc engineering and development prototypes and build a community that actively participates in well-engineered, scalable and deployable solutions.</li>
+<li>Design communication protocols for bidirectional control and feedback
+signals among them to enable scalable coordination at different
+granularities;</li>
+<li>Design mechanisms for actors to access privileged hardware controls and
+monitors to ensure stable closed-loop optimization;</li>
+<li>Study and combine existing ad-hoc engineering and development prototypes
+and build a community that actively participates in well-engineered, scalable
+and deployable solutions.</li>
 </ul>
 
 
