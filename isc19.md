@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<h2>The First Annual Workshop for HPC PowerStack</h2>
-<h4>A Community-Driven Effort to Enable System-wide Power Efficiency</h4>
+<h1 align="center">The First Annual Workshop for HPC PowerStack</h1>
+<h3 align="center">A Community-Driven Effort to Enable System-wide Power Efficiency</h3>
 
-Thursday, June 20, 2019<br>
+<p align="center"><font size="+1">Thursday, June 20, 2019<br>
 9AM -- 6PM<br>
-Gold 2<br>
+Gold 2<br></font></p>
 
-<h3>Motivation</h3>
+<h2>Motivation</h2>
 Although there exist several standalone efforts that attempt to tackle exascale
 power challenges, the majority of the state-of-the-art implemented techniques
 have been designed to meet site-specific needs or optimization goals. Community
