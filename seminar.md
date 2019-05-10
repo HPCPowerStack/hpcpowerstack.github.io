@@ -12,7 +12,7 @@ Boltzmannstraße 1<br>
 <h2>Registration</h2>
 To RSVP, please email Sid Jana <siddhartha.jana@intel.com>.
 
-There will be a registration fee for covering the daytime food expenses for all
+There will be a registration fee to cover the daytime food expenses for all
 three days. Please check back for a registration link coming soon.
 
 <h2>Lodging</h2>
@@ -48,7 +48,7 @@ PowerStack community.
 Some recent news: As you are aware, over the past quarter, the core committee
 has been heads-down with event proposals for ISC and SC. While we are still
 waiting for results of other submissions, we are happy to announce that the
-ISC’19 committee has accepted our proposal for -- <a href="isc19.html">“The
+ISC’19 committee has accepted our proposal for -- <a href="http://powerstack.lrr.in.tum.de/isc19.html">“The
 First Annual Workshop for HPC PowerStack”</a>. Unlike traditional workshops
 that solicit paper submissions and include a series of back-to-back
 presentations, this *full-day* workshop will be unique in that it will be

@@ -15,13 +15,13 @@ The PowerStack team intends to leverage existing well-engineered solutions when 
 <li>PBSPro</li>
 <li>Cobalt</li>
 <li>Flux</li>
-</ul> 
+</ul>
 
 <h2> Runtime Systems: </h2>
 <ul>
 <li>GEOPM</li>
 <li>READEX</li>
-</ul> 
+</ul>
 
 
 <h2> Node-Level Interfaces: </h2>
@@ -30,10 +30,10 @@ The PowerStack team intends to leverage existing well-engineered solutions when 
 <li>OPAL/amester (IBM)</li>
 <li>NVML (NVIDIA)</li>
 <li>libvariorum (vendor-neutral)</li>
-</ul> 
+</ul>
 
 
-<h2> Exisitng standardization efforts: </h2> 
+<h2> Existing standardization efforts: </h2>
 <ul>
 <li> PowerAPI (specifications with focus on node-level design) </li>
 <li> EEHPCWG JSRM (focus on site-level job scheduling policies) </li>
