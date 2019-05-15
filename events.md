@@ -16,7 +16,7 @@ layout: default
 
 <li>Monday, June 17</li>
 <ul>
-<li>Birds of a Feather: The HPC PowerStack: A Community-driven Collaboration Toward a Software Stack for Power and Energy Efficiency</li>
+<li>Birds of a Feather: The HPC PowerStack: A Community-Driven Collaboration Toward a Software Stack for Power and Energy Efficiency</li>
 <li>Time: 2PM -- 3PM</li>
 <li>Location: Kontrast</li>
 </ul>
@@ -28,7 +28,9 @@ layout: default
 
 <li>Wednesday, June 19</li>
 <ul>
-<li>TBD</li>
+<li>Project Poster: The HPC PowerStack: A Community-Driven Collaboration Towards an Energy Efficient Software Stack</li>
+<li>Time: 3:15PM -- 4PM</li>
+<li>Location: Booth N-230</li>
 </ul>
 
 <li>Thursday, June 20</li>
@@ -59,6 +61,7 @@ layout: default
 <h2>PowerStack Seminar: June 20-22, 2018</h2>
 <ul>
 <li><a href="http://powerstack.lrr.in.tum.de/raitenhaslach.html">Seminar Info</a></li>
+<li><a href="http://powerstack.lrr.in.tum.de/travel.html">Seminar Travel</a></li>
 <li><a href="http://powerstack.lrr.in.tum.de/agenda.html">Seminar Agenda</a></li>
 <li><a href="https://powerstack.lrr.in.tum.de/strawman.pdf">Strawman Document</a></li>
 </ul>
