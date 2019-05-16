@@ -4,25 +4,26 @@ layout: default
 
 <h1 align="center">FAQs</h1>
 
-<a href="#goal"> What is the goal of the PowerStack efforts? </a>
-<br>
-<a href="#funding"> What entity is funding the PowerStack initiative? </a>
-<br>
-<a href="#status"> What is the current status of the PowerStack initiative? </a>
-<br>
-<a href="#outcome"> What was the outcome of the PowerStack seminar? </a>
-<br>
-<a href="#compare"> What is the difference between the PowerAPI and the PowerStack efforts? </a>
-<br>
-<a href="#powerapi_contrib"> How does the PowerAPI team plan on contributing to the PowerStack initiative? </a>
-<br>
-<a href="#epajsrm_contrib"> How does the EPA-JSRM team plan on contributing to the PowerStack initiative? </a>
-<br>
-<a href="#next_steps">What are some of the potential next steps for the PowerStack initiative?</a>
+[What is the goal of the PowerStack efforts?](#goal)
+<br/>
+[What entity is funding the PowerStack initiative?](#funding)
+<br/>
+[What is the current status of the PowerStack initiative?](#status)
+<br/>
+[What was the outcome of the PowerStack seminar?](#outcome)
+<br/>
+[What is the difference between the PowerAPI and the PowerStack efforts?](#compare)
+<br/>
+[How does the PowerAPI team plan on contributing to the PowerStack initiative?](#powerapi_contrib)
+<br/>
+[How does the EPA-JSRM team plan on contributing to the PowerStack initiative?](#epajsrm_contrib)
+<br/>
+[What are some of the potential next steps for the PowerStack initiative?](#next_steps)
+<br/>
 
-<hr>
+---
 
-<h4><a id="goal">What is the goal of the PowerStack efforts?</a></h4>
+### [What is the goal of the PowerStack efforts?](#goal)
 The initial work towards the PowerStack started more than a year ago. The work
 arose out of the realization that there is no common consensus among the
 vendors/labs/academia on what software agents are needed to drive energy/power
@@ -39,9 +40,9 @@ decided to work on an initial proposal for a PowerStack strawman architecture
 in a small group setting to seed discussions, then bring the proposal forward
 to progressively broader groups for review and refinement.
 
-<hr>
+---
 
-<h4><a id="funding">What entity is funding the PowerStack initiative?</a></h4>
+### <a name="funding">What entity is funding the PowerStack initiative?</a>
 There is no centralized entity that single-handedly funds the PowerStack. The
 team is essentially a task-force comprising of members of academia, labs, and
 vendors, each specializing in some layer of the system stack. Because there is
@@ -49,18 +50,16 @@ no single developer of the entire stack, it is only pragmatic for different
 stakeholders to design their individual products such that they are compatible
 with a uniform stack that drives robust energy/power management solutions.
 
-<hr>
+---
 
-<h4><a id="status">What is the current status of the PowerStack initiative?</a></h4>
+### <a name="status">What is the current status of the PowerStack initiative?</a>
 The steps that have been taken so far include:
-<ol>
-<li>identify the different software actors that are involved in driving system-side efficiency</li>
-<li>identify the roles and responsibilities of each of these actors</li>
-<li>work towards prototyping how each of these actors would behave independently</li>
-<li>discuss and prototype how each of these actors would interoperate with each other</li>
-<li>prepare a strawman draft documenting this</li>
-<li>solicit feedback from some of the key HPC players to get their consensus and then decide the next steps.</li>
-</ol>
+1. identify the different software actors that are involved in driving system-side efficiency
+2. identify the roles and responsibilities of each of these actors
+3. work towards prototyping how each of these actors would behave independently
+4. discuss and prototype how each of these actors would interoperate with each other
+5. prepare a strawman draft documenting this
+6. solicit feedback from some of the key HPC players to get their consensus and then decide the next steps.
 
 For Step 3 -- as a starting point -- the PowerStack team chose to leverage
 existing open-source HPC projects like the slurm plugin, msr-safe library, and the
@@ -78,9 +77,9 @@ attendance was limited to about 40 representatives from labs, academia, and
 vendors that have played a key role in designing the different layers of the
 HPC stack.
 
-<hr>
+---
 
-<h4><a id="outcome">What was the outcome of the PowerStack seminar?</a></h4>
+### <a name="outcome">What was the outcome of the PowerStack seminar?</a>
 <ol>
 <li>the attendees came to a consensus on three key software actors that need to
 play a role within the PowerStack --</li>
@@ -105,14 +104,14 @@ actors --</li>
 <li>job scheduler <--> site-wide policy manager</li>
 </ol>
 
-<br>
+<br/>
 Channel (d) was initially categorized as 'out-of-scope'. Nevertheless, the
 attendees felt the need to discuss this briefly during the seminar. Channels (b)
 and (c) was where the results of the recent global survey conducted by the
 EPA-JSRM team (EEHPC WG) were applied, during the seminar.
 
-<br>
-<br>
+<br/>
+<br/>
 
 From the global survey conducted by the EPA-JSRM team, it has been evident that
 -- at a higher level -- sites have separate mechanisms in place for managing
@@ -120,33 +119,30 @@ nodes that were idle and those that actively serviced jobs. These correspond to
 Channels (b) and (c), respectively.
 </ol>
 
-<hr>
+---
 
-<h4><a id="compare">What is the difference between the PowerAPI and the
-PowerStack efforts?</a></h4>
+### <a name="compare">What is the difference between the PowerAPI and the PowerStack efforts?</a>
 The charter of the PowerAPI community is to design and develop a
-<i>standardized specification</i> that helps drive energy/power efficiency
+*standardized specification* that helps drive energy/power efficiency
 among all the layers within the HPC system stack. This specification lists
 multiple function definitions that can be invoked by different layers of the
 stack. One of the strengths of the current specification is that it is very
 flexible in that it enables any two actors within the stack to communicate with
 each other via the parameters within these functions. This drives
-<i>portability</i> among vendors investing in power management.
+*portability* among vendors investing in power management.
 
 The charter of the PowerStack community is to design a holistic, flexible and
-extensible concept of a <i>software stack ecosystem</i> Its charter is to:
-<ol>
-<li> identify what are the different actors within the software stack that are
-responsible for driving energy/power efficiency</li>
-<li>get a consensus within the community about what are the roles and
-responsibilities of each of these actors</li>
-<li>how can these actors collaborate with each other while implementing an
-end-to-end solution for system efficiency</li>
-<li>aid in software-hardware co-design and engineering that is compatible with
-the stack.</li>
-</ol>
+extensible concept of a *software stack ecosystem* Its charter is to:
+1. identify what are the different actors within the software stack that are
+responsible for driving energy/power efficiency
+2. get a consensus within the community about what are the roles and
+responsibilities of each of these actors
+3. how can these actors collaborate with each other while implementing an
+end-to-end solution for system efficiency
+4. aid in software-hardware co-design and engineering that is compatible with
+the stack.
 
-<i>Input from the PowerAPI + PowerStack members: </i><br>
+*Input from the PowerAPI + PowerStack members:*<br/>
 PowerAPI is a specification that allows applications, system software, and
 tools to have a portable, hardware/vendor-agnostic interface to the
 power/energy monitoring and management capabilities of a system. HPC Power
@@ -156,7 +152,7 @@ power/energy at different granularities in the system. Where suitable, the
 PowerStack efforts will influence and adhere to interfaces in the PowerAPI
 specification for information exchange between components.
 
-<i>Example of a use-case: </i><br>
+*Example of a use-case:*<br/>
 Assume there exists a system with compute nodes that expose power capping knobs
 to the software stack. Assume a site policy where user-jobs are required to
 execute under a predetermined power budget.
@@ -190,10 +186,10 @@ idle nodes, the job scheduler can take up the responsibility of enforcing power
 caps. For nodes actively servicing jobs, the job scheduler should be capable of
 handing over the power capping responsibility to a job-level agent.
 
-<hr>
+---
 
-<h4><a id="powerapi_contrib">How does the PowerAPI team plan on contributing to
-the PowerStack initiative?</a></h4>
+### <a name="powerapi_contrib">How does the PowerAPI team plan on contributing to
+the PowerStack initiative?</a>
 From the PowerAPI spec -- “PowerAPI provides multiple levels of abstractions to
 satisfy the requirements of multiple types of users”. In accordance with this,
 the team is willing to work with PowerStack on any and all areas where the
@@ -207,10 +203,9 @@ PowerAPI team is interested in contributing towards a PowerStack working group
 (see below) that focuses on the "job-scheduler <--> job-level manager"
 interoperability.
 
-<hr>
+---
 
-<h4><a id="epajsrm_contrib">How does the EPA-JSRM team plan on contributing to
-the PowerStack initiative?</a></h4>
+### <a name="epajsrm_contrib">How does the EPA-JSRM team plan on contributing to the PowerStack initiative?</a>
 The EPA-JSRM is in a strong position to share lessons learned from their past
 survey of multiple HPC sites that are actively investing in energy- and
 power-aware job scheduling and resource management. During the last two meetings,
@@ -218,10 +213,9 @@ the EPA-JSRM team expressed interest in helping the PowerStack community by
 contributing some bandwidth towards designing bi-directional communication
 mechanisms between job schedulers and the job-level manager.
 
-<hr>
+---
 
-<h4><a id="next_steps">What are some of the potential next steps for the
-PowerStack initiative?</a></h4>
+### <a name="next_steps">What are some of the potential next steps for the PowerStack initiative?</a>
 Towards the end of the PowerStack seminar, the attendees expressed interest in
 contributing towards specific working groups that focus on a specific portion
 of the stack. If there is enough interest, one direction we can take -- as a
@@ -229,20 +223,18 @@ community -- is to have topic-based working groups that meet periodically to
 make progress on their assigned tasks.
 
 Some candidate topics include:
-<ul>
-<li>Group 1: Focus on job scheduler <--> job-level manager interoperability
-(Active node power management)</li>
-<li>Group 2: Focus on job scheduler <--> node-manger interoperability (Idle
-node power management)</li>
-<li>Group 3: Focus on designing solutions for job schedulers to dynamically
+* Group 1: Focus on job scheduler <--> job-level manager interoperability
+(Active node power management)
+* Group 2: Focus on job scheduler <--> node-manger interoperability (Idle
+node power management)
+* Group 3: Focus on designing solutions for job schedulers to dynamically
 switch between communication with the job-level manager and the node-level
-manager</li>
-<li>Group 4: Focus on designing solutions for accessing in-band and out-of-band
+manager
+* Group 4: Focus on designing solutions for accessing in-band and out-of-band
 hardware control knobs accessible via either the node-level manager or the job
-scheduler</li>
-<li>Group 5: Focus on the communication of site-level power policy to the job
-scheduler</li>
-</ul>
+scheduler
+* Group 5: Focus on the communication of site-level power policy to the job
+scheduler
 
 
 [Back](./)
