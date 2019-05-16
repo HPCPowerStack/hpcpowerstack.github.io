@@ -5,28 +5,26 @@ layout: default
 
 <h1 align="center">2nd Annual PowerStack Seminar</h1>
 <p align="center"><font size="+2">June 12-14, 2019</font></p>
-<p align="center"><font size="+1">Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften<br>
-Boltzmannstraße 1<br>
+<p align="center"><font size="+1">Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften<br/>
+Boltzmannstraße 1<br/>
 85748 Garching</font></p>
 
-<h2>Registration</h2>
-To RSVP, please email Sid Jana <siddhartha.jana@intel.com>.
+## Registration
+To RSVP, please email Sid Jana at <siddhartha.jana@intel.com>.
 
 There will be a registration fee to cover the daytime food expenses for all
 three days. Please check back for a registration link coming soon.
 
-<h2>Lodging</h2>
+## Lodging
 Due to plenty of options around LRZ, we won't be blocking any hotel rooms for
 the seminar (unlike last year). Please feel free to choose your own hotels.
 Some pointers are listed below.
 
 It is recommended to choose a hotel in:
-<ul>
-<li>Garching (such as "Hotel Hoyacker Hof“, "Hotel König Ludwig II.“ or cheaper "Ibis Budget" or "Motel One“), OR</li>
-<li>Munich city centre (multiple hotel options here)</li>
-</ul>
+* Garching (such as "Hotel Hoyacker Hof“, "Hotel König Ludwig II.“ or cheaper "Ibis Budget" or "Motel One“), OR
+* Munich city centre (multiple hotel options here)
 
-<h2>Invitation</h2>
+## Invitation
 The Raitenhaslach Seminar on "The HPC PowerStack: Enabling Efficient Power
 Management in High-Performance Computing through Hierarchical Design" was held
 from June 20-22, 2018 in Raitenhaslach, Germany. Continuing from last year, we
@@ -48,14 +46,14 @@ PowerStack community.
 Some recent news: As you are aware, over the past quarter, the core committee
 has been heads-down with event proposals for ISC and SC. While we are still
 waiting for results of other submissions, we are happy to announce that the
-ISC’19 committee has accepted our proposal for -- <a href="http://powerstack.lrr.in.tum.de/isc19.html">“The
-First Annual Workshop for HPC PowerStack”</a>. Unlike traditional workshops
+ISC’19 committee has accepted our proposal for -- [“The First Annual Workshop
+for HPC PowerStack”](http://powerstack.lrr.in.tum.de/isc19.html). Unlike
+traditional workshops
 that solicit paper submissions and include a series of back-to-back
 presentations, this *full-day* workshop will be unique in that it will be
 highly interactive. This will give us an opportunity to interact with and
 obtain feedback from the broader external community attending the ISC
-conference in Frankfurt from June 16-20, 2019.
-
+conference in Frankfurt from June 16-20, 2019.  
 ** Note, however, that the ISC workshop mentioned above will *not* -- by any
 means -- be a replacement of this more focused, hands-on, three-day,
 face-to-face seminar scheduled the week prior to ISC @LRZ from June 12-14, 2019.
@@ -74,7 +72,7 @@ lists/forums listed at the end of this email.
 
 Once again, we hope that you’d join us all at the HPC PowerStack face-to-face
 to continue our fruitful discussions (whilst enjoying the splendor of Bavaria
-in the month of June). Please feel free to direct your RSVP to Sid Jana
+in the month of June). Please feel free to direct your RSVP to Sid Jana at
 <siddhartha.jana@intel.com>.
 
 Sincerely,
@@ -91,24 +89,20 @@ Please save the following dates
 -- Venue: LRZ (Leibniz Supercomputing Centre) in Garching near Munich, Germany.
 -- Registration fee for covering the daytime food expenses: Around 100 Euros total for all three days
 
-<h2>Seminar Location</h2>
-Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften<br>
-Boltzmannstraße 1<br>
+## Seminar Location
+Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften<br/>
+Boltzmannstraße 1<br/>
 85748 Garching
 
-<h2>Getting to/from LRZ</h2>
-<ul>
-<li>Google Maps does a pretty good job of capturing most of the transportation options</li>
-<li>One can use the U-bahn (U6) for intra-city travel</li>
-<li><a href="https://www.lrz.de/wir/kontakt/weg_en">Here's</a> another illustration</li>
-</ul>
+## Getting to/from LRZ
+* Google Maps does a pretty good job of capturing most of the transportation options</li>
+* One can use the U-bahn (U6) for intra-city travel</li>
+* [Here's](https://www.lrz.de/wir/kontakt/weg_en) another illustration
 
-<h2>Web resources to find a hotel</h2>
-<ul>
-<li><a href="https://hotels.com">https://hotels.com</a></li>
-<li><a href="http://www.garching.de/Leben+in+Garching/Einkaufen+_+Übernachten/Übernachtungs_möglichkeiten.html">Listing of accommodations in Garching</a></li>
-<li><a href="http://www.muenchen.de/uebernachten.html">Listing of accommodation in Munich</a></li>
-</ul>
+## Web resources to find a hotel
+* [https://hotels.com](https://hotels.com)
+* [Listing of accommodations in Garching](http://www.garching.de/Leben+in+Garching/Einkaufen+_+Übernachten/Übernachtungs_möglichkeiten.html)
+* [Listing of accommodation in Munich](http://www.muenchen.de/uebernachten.html)
 
 
 [Back](./)
