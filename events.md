@@ -16,7 +16,9 @@ layout: default
     * Location: Kontrast
 
 * Tuesday, June 18
-    * TBD
+    * GEOPM Hands-On Tutorial
+    * Time: 2:15PM -- 3:45PM
+    * Location: Hotel Mövenpick, Room Matterhorn 1
 
 * Wednesday, June 19
     * Project Poster: The HPC PowerStack: A Community-Driven Collaboration Towards an Energy Efficient Software Stack
