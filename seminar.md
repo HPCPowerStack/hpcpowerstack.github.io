@@ -9,11 +9,7 @@ layout: default
 Boltzmannstraße 1<br/>
 85748 Garching</font></p>
 
-## Registration
-To RSVP, please email Sid Jana at <siddhartha.jana@intel.com>.
-
-There will be a registration fee to cover the daytime food expenses for all
-three days. Please check back for a registration link coming soon.
+### [Register here](https://interplan.eventsair.com/powerstack-2019/powerstack2019/Site/Register)
 
 ## Lodging
 Due to plenty of options around LRZ, we won't be blocking any hotel rooms for
@@ -88,6 +84,15 @@ Please save the following dates
 -- Date: June 12 (Wednesday) through June 14 (Friday), 2019
 -- Venue: LRZ (Leibniz Supercomputing Centre) in Garching near Munich, Germany.
 -- Registration fee for covering the daytime food expenses: Around 100 Euros total for all three days
+
+## Registration
+To RSVP, please email Sid Jana at <siddhartha.jana@intel.com>.
+
+The registration fee will cover on-site lunch for all three days, coffee
+breaks, and a social event on June 13, 2019.
+
+The registration link is live! Register
+[here](https://interplan.eventsair.com/powerstack-2019/powerstack2019/Site/Register).
 
 ## Seminar Location
 Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften<br/>
