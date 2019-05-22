@@ -3,13 +3,12 @@ layout: default
 ---
 ![](lrz-building.jpg)
 
-<h1 align="center">2nd Annual PowerStack Seminar</h1>
+<h1 align="center">2nd Annual PowerStack Seminar -- <a href="https://interplan.eventsair.com/powerstack-2019/powerstack2019/Site/Register">Registration</a></h1>
 <p align="center"><font size="+2">June 12-14, 2019</font></p>
 <p align="center"><font size="+1">Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften<br/>
 Boltzmannstraße 1<br/>
 85748 Garching</font></p>
 
-### [Register here](https://interplan.eventsair.com/powerstack-2019/powerstack2019/Site/Register)
 
 ## Lodging
 Due to plenty of options around LRZ, we won't be blocking any hotel rooms for
@@ -49,7 +48,7 @@ that solicit paper submissions and include a series of back-to-back
 presentations, this *full-day* workshop will be unique in that it will be
 highly interactive. This will give us an opportunity to interact with and
 obtain feedback from the broader external community attending the ISC
-conference in Frankfurt from June 16-20, 2019.  
+conference in Frankfurt from June 16-20, 2019.
 ** Note, however, that the ISC workshop mentioned above will *not* -- by any
 means -- be a replacement of this more focused, hands-on, three-day,
 face-to-face seminar scheduled the week prior to ISC @LRZ from June 12-14, 2019.
