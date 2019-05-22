@@ -8,12 +8,12 @@ layout: default
 * Sunday, June 16
     * Tutorial: Boosting Power Efficiency of HPC Applications with GEOPM
     * Time: 9AM -- 1PM
-    * Location: Extrakt
+    * Location: Messe Frankfurt, Room Extrakt
 
 * Monday, June 17
     * Birds of a Feather: The HPC PowerStack: A Community-Driven Collaboration Toward a Software Stack for Power and Energy Efficiency
     * Time: 2PM -- 3PM
-    * Location: Kontrast
+    * Location: Messe Frankfurt, Room Kontrast
 
 * Tuesday, June 18
     * GEOPM Hands-On Tutorial
@@ -23,12 +23,12 @@ layout: default
 * Wednesday, June 19
     * Project Poster: The HPC PowerStack: A Community-Driven Collaboration Towards an Energy Efficient Software Stack
     * Time: 3:15PM -- 4PM
-    * Location: Booth N-230
+    * Location: Messe Frankfurt, Exhibition Hall, Booth N-230
 
 * Thursday, June 20
     * Workshop: [The First Annual Workshop for HPC PowerStack](http://powerstack.lrr.in.tum.de/isc19.html)
     * Time: 9AM -- 6PM
-    * Location: Gold 2
+    * Location: Frankfurt Marriott Hotel, Room Gold 2
 
 ---
 
