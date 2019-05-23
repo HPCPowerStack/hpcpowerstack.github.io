@@ -19,8 +19,7 @@ they interoperate with each other in a cohesive and coordinated stack. We
 believe coordination among these components is critical for avoiding
 underutilization of system Watts and FLOPS.
 
-The above realization led to the formation of the HPC PowerStack Community in
-2016. The charter of this community has been to:
+The above realization led to the formation of the HPC PowerStack Community in 2016. The charter of this community has been to:
 * Identify the key software actors needed in a system power stack:
 job-schedulers, application-level runtime, hardware knobs;
 * Identify their respective privileges, roles, and responsibilities;
@@ -32,6 +31,12 @@ monitors to ensure stable closed-loop optimization;
 * Study and combine existing ad-hoc engineering and development prototypes
 and build a community that actively participates in well-engineered, scalable
 and deployable solutions.
+
+This workshop will disseminate key insights that have been acquired so far
+within this community, provide status updates on the first prototype, invite
+audience feedback on current directions, and brainstorm solutions to open
+questions. We will also issue a call-to-action to join the collaboration to
+build an even stronger community.
 
 ## Proposed Agenda
 
