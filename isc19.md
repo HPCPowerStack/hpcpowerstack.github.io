@@ -40,28 +40,28 @@ build an even stronger community.
 
 ## Proposed Agenda
 
-| Time         | Session                                               |
-|--------------|-------------------------------------------------------|
-| 9AM-9:30AM   | Welcome                                               |
-| 9:30AM-11AM  | PowerStack Overview                                   |
-| 11AM-11:30AM | Coffee Break                                          |
-| 11:30AM-1PM  | Prototype Design                                      |
-| 1PM-2PM      | Lunch                                                 |
-| 2PM-3PM      | Working Group #1: Facility-Level Policies             |
-| 3PM-4PM      | Working Group #2: Adaptive Runtimes                   |
-| 4PM-4:30PM   | Coffee Break                                          |
-| 4:30PM-6PM   | Working Group #3: Hardware-Level Sensors and Controls |
+| Time         | Session                             |
+|--------------|-------------------------------------|
+| 9AM-9:30AM   | Welcome                             |
+| 9:30AM-11AM  | PowerStack Overview                 |
+| 11AM-11:30AM | Coffee Break                        |
+| 11:30AM-1PM  | Prototype Design                    |
+| 1PM-2PM      | Lunch                               |
+| 2PM-3PM      | Adaptive Runtimes                   |
+| 3PM-4PM      | Hardware-Level Sensors and Controls |
+| 4PM-4:30PM   | Coffee Break                        |
+| 4:30PM-6PM   | Facility-Level Policies             |
 
 ---
 
-# Other PowerStack Events at ISC19
+## Other PowerStack Events at ISC19
 
-| Date/Time                      | Type                  | Session                                                                                                            | Location                                        |
-|--------------------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Sun, 6/16<br>9AM -- 1PM        | Tutorial              | Boosting Power Efficiency of HPC Applications<br>with GEOPM                                                        | Messe Frankfurt<br>Room Extrakt                 |
-| Mon, 6/17<br>2PM -- 3PM        | Birds of<br>a Feather | The HPC PowerStack: A Community-Driven<br>Collaboration Toward a Software Stack for<br>Power and Energy Efficiency | Messe Frankfurt<br>Room Kontrast                |
-| Tues, 6/18<br>2:15PM -- 3:45PM |                       | GEOPM Hands-On Tutorial                                                                                            | Hotel Mövenpick<br>Room Matterhorn 1            |
-| Wed, 6/19<br>3:15PM -- 4PM     | Project Poster        | The HPC PowerStack: A Community-Driven<br>Collaboration Towards an Energy Efficient<br>Software Stack              | Messe Frankfurt<br>Exhibition Hall, Booth N-230 |
-| Thurs, 6/20<br>9AM -- 6PM      | Workshop              | [The First Annual Workshop for HPC PowerStack](http://powerstack.lrr.in.tum.de/isc19.html)                         | Frankfurt Marriott Hotel<br>Room Gold 2         |
+| Date/Time                        | Type                  | Session                                                                                                            | Location                                        |
+|----------------------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Sun, Jun 16<br>9AM -- 1PM        | Tutorial<br>Half-Day  | Boosting Power Efficiency of HPC Applications<br>with GEOPM                                                        | Messe Frankfurt<br>Room Extrakt                 |
+| Mon, Jun 17<br>2PM -- 3PM        | Birds of<br>a Feather | The HPC PowerStack: A Community-Driven<br>Collaboration Toward a Software Stack for<br>Power and Energy Efficiency | Messe Frankfurt<br>Room Kontrast                |
+| Tues, Jun 18<br>2:15PM -- 3:45PM | Tutorial              | GEOPM Hands-On Tutorial                                                                                            | Hotel Mövenpick<br>Room Matterhorn 1            |
+| Wed, Jun 19<br>3:15PM -- 4PM     | Project Poster        | The HPC PowerStack: A Community-Driven<br>Collaboration Towards an Energy Efficient<br>Software Stack              | Messe Frankfurt<br>Exhibition Hall, Booth N-230 |
+| Thurs, Jun 20<br>9AM -- 6PM      | Workshop<br>Full-Day  | [The First Annual Workshop for HPC PowerStack](http://powerstack.lrr.in.tum.de/isc19.html)                         | Frankfurt Marriott Hotel<br>Room Gold 2         |
 
 [Back](./)
