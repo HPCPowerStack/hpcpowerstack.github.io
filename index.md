@@ -50,8 +50,9 @@ which are being actively defined and developed, are listed below:
 * Must support real-time monitoring and control in order to adapt to dynamic scenarios. These can be system-level (more or less power at the system level due to power supply or node failures), or application-level (critical path, CPU/memory boundedness, manufacturing variation in the allocation, load imbalance, etc.)
 
 
-## [](#header-2)Key Members (alphabetical order)
+## [](#header-2)Core Committee Members (alphabetical order)
 
+* Stephanie Brink, Lawrence Livermore National Laboratory, USA
 * Christopher Cantalupo, Intel Corporation, USA
 * Jonathan Eastep, Intel Corporation, USA
 * Siddhartha Jana, Energy Efficient High Performance Computing Working Group, Global
