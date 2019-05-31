@@ -33,7 +33,7 @@ which takes a holistic approach to power management.
 
 <br/>
 
-![](PowerStack_v2.png)
+![](images/PowerStack_v2.png)
 
 <br/>
 Design and development of the PowerStack in a scalable, conflict-free and
