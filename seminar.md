@@ -9,6 +9,82 @@ layout: default
 Boltzmannstraße 1<br/>
 85748 Garching</font></p>
 
+## Agenda
+
+The current agenda is below. There will be coffee breaks and on-site lunch
+provided each day (times TBD). We will actively update this agenda as more
+details become available.
+
+
+<table>
+  <tbody>
+    <tr>
+      <th>Date/Time</th>
+      <th>Goals</th>
+      <th>Topics</th>
+    </tr>
+    <tr>
+      <td>12.06.2019<br>Tentative Start Time: 8:00AM</td>
+      <td>Recap previous year’s seminar and past year activities, ideas on
+current implementations, working groups catch up on the status</td>
+      <td>
+        Morning:
+        <ul style="padding-left:20px">
+          <li>Welcome and introduction of all attendees</li>
+          <li>Current status report</li>
+          <li>Comparison of existing layers and technologies: discuss
+implementation challenges, focus on interoperability with other layers of the
+stack</li>
+        </ul>
+        Afternoon:
+        <ul style="padding-left:20px">
+          <li>WG-specific meetings: identify specific challenges within each
+layer, review responses to questionnaire</li>
+        </ul>
+        Planned Activity: Tour of LRZ Computer Facility
+      </td>
+    </tr>
+    <tr>
+      <td>13.06.2019</td>
+      <td>Identify engineering challenges and discuss implementations of
+interfaces among different layers of the software stack</td>
+      <td>
+        Morning:
+        <ul style="padding-left:20px">
+          <li>Updates from previous day's WG meetings</li>
+          <li>Role of human actors in the stack (site/system admins &
+end-users/app developers): site policies for accounting, application mark-ups</li>
+        </ul>
+        Afternoon:
+        <ul style="padding-left:20px">
+          <li>Interoperability between each WG: discuss inputs/outputs,
+communication, privileges, responsibilities/ownership</li>
+        </ul>
+        Planned Activity: Seminar Dinner/Social Event (transportation provided)
+      </td>
+    </tr>
+    <tr>
+      <td>14.06.2019</td>
+      <td>Determine commitments from each WG for a deliverable(s), identify
+long-term directions</td>
+      <td>
+        Morning:
+        <ul style="padding-left:20px">
+          <li>Identify the next steps based on unresolved questions from Day 2</li>
+          <li>Assign short-term tasks for WGs: identify stakeholders for
+prototypes, tasks for post-seminar</li>
+        </ul>
+        Afternoon:
+        <ul style="padding-left:20px">
+          <li>Discuss long-term future directions of the PowerStack:
+validation/compliance of PowerStack-compatible systems, incorporating
+PowerStack designs within system procurement proposals</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Lodging
 Due to plenty of options around LRZ, we won't be blocking any hotel rooms for
