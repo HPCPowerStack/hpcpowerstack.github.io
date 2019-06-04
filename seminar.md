@@ -118,7 +118,7 @@ Some recent news: As you are aware, over the past quarter, the core committee
 has been heads-down with event proposals for ISC and SC. While we are still
 waiting for results of other submissions, we are happy to announce that the
 ISC’19 committee has accepted our proposal for -- [“The First Annual Workshop
-for HPC PowerStack”](http://powerstack.lrr.in.tum.de/isc19.html). Unlike
+for HPC PowerStack”](isc19-workshop.html). Unlike
 traditional workshops
 that solicit paper submissions and include a series of back-to-back
 presentations, this *full-day* workshop will be unique in that it will be

@@ -58,11 +58,11 @@ build an even stronger community.
 
 | Date/Time                        | Type                  | Session                                                                                                                        | Location                                        |
 |----------------------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Sun, Jun 16<br>9AM -- 1PM        | Tutorial<br>Half-Day  | [Boosting Power Efficiency of HPC Applications<br>with GEOPM](http://powerstack.lrr.in.tum.de/isc19-tutorial.html)                                                   | Messe Frankfurt<br>Room Extrakt                 |
-| Mon, Jun 17<br>2PM -- 3PM        | Birds of<br>a Feather | [The HPC PowerStack: A Community-Driven<br>Collaboration Toward a Software Stack for<br>Power and Energy Efficiency](http://powerstack.lrr.in.tum.de/isc19-bof.html) | Messe Frankfurt<br>Room Kontrast                |
+| Sun, Jun 16<br>9AM -- 1PM        | Tutorial<br>Half-Day  | [Boosting Power Efficiency of HPC Applications<br>with GEOPM](isc19-tutorial.html)                                                   | Messe Frankfurt<br>Room Extrakt                 |
+| Mon, Jun 17<br>2PM -- 3PM        | Birds of<br>a Feather | [The HPC PowerStack: A Community-Driven<br>Collaboration Toward a Software Stack for<br>Power and Energy Efficiency](isc19-bof.html) | Messe Frankfurt<br>Room Kontrast                |
 | Tues, Jun 18<br>2:15PM -- 3:45PM | Tutorial              | GEOPM Hands-On Tutorial                                                                                                        | Hotel Mövenpick<br>Room Matterhorn 1            |
 | Wed, Jun 19<br>3:15PM -- 4PM     | Project Poster        | The HPC PowerStack: A Community-Driven<br>Collaboration Towards an Energy Efficient<br>Software Stack                          | Messe Frankfurt<br>Exhibition Hall, Booth N-230 |
-| Thurs, Jun 20<br>9AM -- 6PM      | Workshop<br>Full-Day  | [The First Annual Workshop for HPC PowerStack](http://powerstack.lrr.in.tum.de/isc19-workshop.html)                                                                     | Frankfurt Marriott Hotel<br>Room Gold 2         |
+| Thurs, Jun 20<br>9AM -- 6PM      | Workshop<br>Full-Day  | [The First Annual Workshop for HPC PowerStack](isc19-workshop.html)                                                                     | Frankfurt Marriott Hotel<br>Room Gold 2         |
 
 
 [Back](./)
