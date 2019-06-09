@@ -9,10 +9,21 @@ layout: default
 Boltzmannstraße 1<br/>
 85748 Garching</font></p>
 
+## [NEW] First Day Logistics
+On the first day, please arrive to the main entry of LRZ by 8:45AM. We will
+start the seminar at 9AM.
+
+If arriving by train, stop at Garching-Forschungszentrum. If arriving by bus,
+stop at Boltzmannstraße. From there, follow the paths to the LRZ computer center.
+For more information, please see: [https://www.lrz.de/wir/kontakt/weg_en](https://www.lrz.de/wir/kontakt/weg_en).
+
+In the main entry of LRZ, you will see signs guiding you to the reserved rooms
+for the "PowerStack Seminar“ (the rooms are directly near the main entry).
+
 ## Agenda
 
 The current agenda is below. There will be coffee breaks and on-site lunch
-provided each day (times TBD). We will actively update this agenda as more
+provided each day. We will actively update this agenda as more
 details become available.
 
 
@@ -24,19 +35,19 @@ details become available.
       <th>Topics</th>
     </tr>
     <tr>
-      <td>12.06.2019<br>Tentative Start Time: 8:00AM</td>
+      <td>12.06.2019<br>Start Time: 9AM</td>
       <td>Recap previous year’s seminar and past year activities, ideas on
 current implementations, working groups catch up on the status</td>
       <td>
-        Morning:
+        Morning (coffee break 11AM):
         <ul style="padding-left:20px">
           <li>Welcome and introduction of all attendees</li>
           <li>Current status report</li>
-          <li>Comparison of existing layers and technologies: discuss
-implementation challenges, focus on interoperability with other layers of the
-stack</li>
+          <li>Comparison of existing layers and technologies: discuss implementation challenges, focus on interoperability with other layers of the stack</li>
         </ul>
-        Afternoon:
+        Lunch: 1PM<br/><br/>
+
+        Afternoon (coffee break 3:30PM):
         <ul style="padding-left:20px">
           <li>WG-specific meetings: identify specific challenges within each
 layer, review responses to questionnaire</li>
@@ -118,7 +129,7 @@ Some recent news: As you are aware, over the past quarter, the core committee
 has been heads-down with event proposals for ISC and SC. While we are still
 waiting for results of other submissions, we are happy to announce that the
 ISC’19 committee has accepted our proposal for -- [“The First Annual Workshop
-for HPC PowerStack”](http://powerstack.lrr.in.tum.de/isc19.html). Unlike
+for HPC PowerStack”](isc19-workshop.html). Unlike
 traditional workshops
 that solicit paper submissions and include a series of back-to-back
 presentations, this *full-day* workshop will be unique in that it will be
