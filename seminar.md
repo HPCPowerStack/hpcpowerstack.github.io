@@ -39,8 +39,8 @@ stack</li>
         Afternoon:
         <ul style="padding-left:20px">
           <li>WG-specific meetings: identify specific challenges within each
-layer, review responses to questionaire</li>
-        </ul>
+layer, review responses to questionnaire</li>
+</ul>
         Planned Activity: Tour of LRZ Computer Facility
       </td>
     </tr>

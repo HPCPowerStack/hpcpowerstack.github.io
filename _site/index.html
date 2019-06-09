@@ -24,38 +24,67 @@
     <section class="page-header">
       <h1 class="project-name">The HPC PowerStack</h1>
 	<h2 class="project-tagline">A Path to Standardization and/or Homogenization?</h2>
-	<!-- 
+	<!--
 	 <h2 class="project-tagline"></h2>
 	-->
 
 	<a href="http://powerstack.lrr.in.tum.de" class="btn">Home</a>
-        <a href="http://powerstack.lrr.in.tum.de/org.html" class="btn">Members</a>
-	<a href="http://powerstack.lrr.in.tum.de/proto.html" class="btn">Strawman</a>
-	<a href="http://powerstack.lrr.in.tum.de/raitenhaslach.html" class="btn">Raitenhaslach Seminar</a>
+	<a href="http://powerstack.lrr.in.tum.de/proto.html" class="btn">Reference Documents</a>
+	<a href="http://powerstack.lrr.in.tum.de/seminar.html" class="btn">Second Annual PowerStack Seminar</a>
+	<a href="http://powerstack.lrr.in.tum.de/events.html" class="btn">Events</a>
 	<a href="http://powerstack.lrr.in.tum.de/faq.html" class="btn">FAQ</a>
-	<!-- 	
+	<a href="http://powerstack.lrr.in.tum.de/contributions.html" class="btn">Want to Contribute?</a>
+	<!--
 	<a href="http://powerstack.lrr.in.tum.de/agenda.html" class="btn">Agenda</a>
 	<a href="http://powerstack.lrr.in.tum.de/travel.html" class="btn">Travel</a>
 	-->
-      
+
 </section>
 
     <section class="main-content">
-      <p>The landscape of high-performance computing (HPC) is changing as we enter the exascale era. Optimizing performance of scientific applications under power and energy constraints is challenging due to several reasons, such as the dynamic phase behavior of applications, processor manufacturing variability, and increasing heterogeneity of node-level components. While several scattered research efforts to manage power and energy exist, a majority of these efforts are site-specific, require programmer effort, and often result in suboptimal application performance and system throughput. Additionally, these interfaces are not designed to cooperate or work together in an integrated manner, creating conflicts between various layers of a software stack. A holistic, generalizable and extensible approach to power management is still missing in the HPC community.</p>
+      <p>The landscape of high-performance computing (HPC) is changing as we enter the
+exascale era. Optimizing performance of scientific applications under power and
+energy constraints is challenging due to several reasons, such as the dynamic
+phase behavior of applications, processor manufacturing variability, and
+increasing heterogeneity of node-level components. While several scattered
+research efforts to manage power and energy exist, a majority of these efforts
+are site-specific, require programmer effort, and often result in suboptimal
+application performance and system throughput. Additionally, these interfaces
+are not designed to cooperate or work together in an integrated manner,
+creating conflicts between various layers of a software stack. A holistic,
+generalizable and extensible approach to power management is still missing in
+the HPC community.</p>
 
-<p>Our goal is bring together experts from academia, research laboratories and industry in order to design a holistic and an extensible power management framework, which we refer to as the PowerStack. The PowerStack explores hierarchical interfaces for power management at three specific levels: batch job schedulers, job-level runtime systems, node-level managers. Each level will provide options for adaptive management depending on requirements of the supercomputing site under consideration. Site-specific requirements such as cluster-level power bounds, user fairness, or job priorities will be translated as inputs to the job scheduler. The job scheduler will choose power-aware scheduling plugins to ensure compliance, with the primarily responsibility for managing allocations across multiple users and diverse workloads. Such allocations (physical nodes and job-level power bounds) will serve as inputs to a fine-grained, job-level runtime system to manage specific application ranks, in-turn relying on vendor-agnostic node-level measurement and control mechanisms. The figure below presents an overview of the envisioned PowerStack, which takes a holistic approach to power management.</p>
+<p>Our goal is bring together experts from academia, research laboratories and
+industry in order to design a holistic and extensible power management
+framework, which we refer to as the PowerStack. The PowerStack explores
+hierarchical interfaces for power management at three specific levels: batch
+job schedulers, job-level runtime systems, and node-level managers. Each level
+will provide options for adaptive management depending on requirements of the
+supercomputing site under consideration. Site-specific requirements such as
+cluster-level power bounds, user fairness, or job priorities will be translated
+as inputs to the job scheduler. The job scheduler will choose power-aware
+scheduling plugins to ensure compliance, with the primary responsibility being
+management of allocations across multiple users and diverse workloads. Such
+allocations (physical nodes and job-level power bounds) will serve as inputs to
+a fine-grained, job-level runtime system to manage specific application ranks,
+in-turn relying on vendor-agnostic node-level measurement and control
+mechanisms. The figure below presents an overview of the envisioned PowerStack,
+which takes a holistic approach to power management.</p>
 
 <p><br /></p>
 
-<p><img src="PowerStack_v2.png" alt="" /></p>
+<p><img src="images/PowerStack_v2.png" alt="" /></p>
 
 <p><br />
-Design and development of the PowerStack in a scalable, conflict-free and low-overhead manner presents several challenges. Some of these challenges, which are being actively defined and developed, are listed below:</p>
+Design and development of the PowerStack in a scalable, conflict-free and
+low-overhead manner presents several challenges. Some of these challenges,
+which are being actively defined and developed, are listed below:</p>
 
 <ul>
   <li>Holistically coordinate power optimizations across the whole system in a scalable manner</li>
   <li>Ensure safe operation within electrical operating parameters, must include protective layers to enable scenarios where system power caps are hard limits that must be enforced at all times</li>
-  <li>Implementations must be open source with a flexible (not-sticky) software license to enable commercial as well as research uses</li>
+  <li>Implementations must be open-source with a flexible (not-sticky) software license to enable commercial as well as research uses</li>
   <li>Must be cross-platform to avoid locking users to hardware from a specific vendor</li>
   <li>Must be production-grade and easily deployable through standard package management interfaces</li>
   <li>Must be extensible (e.g. through plugins) to support diverse preferences at different HPC centers and facilitate rapid prototyping of new power, energy or performance optimization techniques</li>
@@ -63,22 +92,44 @@ Design and development of the PowerStack in a scalable, conflict-free and low-ov
   <li>Must support real-time monitoring and control in order to adapt to dynamic scenarios. These can be system-level (more or less power at the system level due to power supply or node failures), or application-level (critical path, CPU/memory boundedness, manufacturing variation in the allocation, load imbalance, etc.)</li>
 </ul>
 
+<h2 id="core-committee-members-alphabetical-order"><a href="#header-2"></a>Core Committee Members (alphabetical order)</h2>
+
+<ul>
+  <li>Stephanie Brink, Lawrence Livermore National Laboratory, USA</li>
+  <li>Christopher Cantalupo, Intel Corporation, USA</li>
+  <li>Jonathan Eastep, Intel Corporation, USA</li>
+  <li>Siddhartha Jana, Energy Efficient High Performance Computing Working Group, Global</li>
+  <li>Masaaki Kondo, University of Tokyo, Japan</li>
+  <li>Matthias Maiterth, Ludwig-Maximilians University, Germany</li>
+  <li>Aniruddha Marathe, Lawrence Livermore National Laboratory, USA</li>
+  <li>Tapasya Patki, Lawrence Livermore National Laboratory, USA</li>
+  <li>Barry Rountree, Lawrence Livermore National Laboratory, USA</li>
+  <li>Ryuichi Sakamoto, University of Tokyo, Japan</li>
+  <li>Martin Schulz, Technical University Munich, Germany</li>
+  <li>Carsten Trinitis, Technical University Munich, Germany</li>
+</ul>
+
+<h2 id="contact"><a href="#header-3"></a>Contact</h2>
+
+<p>Martin Schulz, schulzm - at - in.tum.de</p>
+
+
 
       <footer class="site-footer">
 	<center>
 	<p>
-	<img src="/tum-s.png" alt="TUM" height=50>
+	<img src="images/tum-s.png" alt="TUM" height=50>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="/llnl.png" alt="LLNL" height=50>
+	<img src="images/llnl.png" alt="LLNL" height=50>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="/tokyo.png" alt="U of Tokyo" height=50>
+	<img src="images/tokyo.png" alt="U of Tokyo" height=50>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="/intel.jpg" alt="Intel" height=50>
+	<img src="images/intel.jpg" alt="Intel" height=50>
 	</p>
 	<p>
-	Impressum: <a href="https://www.tum.de/die-tum/kontakt-und-anfahrt/impressum/">TU Munich</a>, 
-		   <a href="http://www.in.tum.de/impressum/">Department for Informatics</a>, 
-	    	   <a href="http://www.lrr.in.tum.de/startseite/">Lehrstuhl I-10 (LRR)</a>, 
+	Impressum: <a href="https://www.tum.de/die-tum/kontakt-und-anfahrt/impressum/">TU Munich</a>,
+		   <a href="http://www.in.tum.de/impressum/">Department for Informatics</a>,
+	    	   <a href="http://www.lrr.in.tum.de/startseite/">Lehrstuhl I-10 (LRR)</a>,
 		   Contact: <a href="http://www.lrr.in.tum.de/mitarbeiter/martin-schulz/">Martin Schulz</a>
 	<br>
 	<a href="https://www.tum.de/datenschutz/">Datenschutz</a>
