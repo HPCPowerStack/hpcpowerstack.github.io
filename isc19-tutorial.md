@@ -23,10 +23,20 @@ state-of-the-art power management techniques used by Intel, IBM, and ARM, and
 discuss GEOPM features and usability. A high-level overview of the GEOPM
 architecture, a walkthrough of the GEOPM plugin infrastructure, and use cases
 will be discussed. Third-party plugins developed as part of Exascale Computing
-Project’s GEOPM plugins will also be demoed. Algorithms used to speed up
+Project’s GEOPM plugins will also be demonstrated. Algorithms used to speed up
 application critical path (through adaptive configuration selection) and
 mitigate process variation (through intelligent power management) will be
 discussed. State-of-the-art and best practices for leveraging power management
 techniques in modern processors will also be covered.
+
+ 
+<hr>
+
+<h2 align="left">Setup for the hands-on demonstration</h1>
+
+Download the <a href="/cloud.zip">access key</a> to log into 
+your compute node.
+
+
 
 [Back](./)
