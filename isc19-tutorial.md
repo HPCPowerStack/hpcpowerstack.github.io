@@ -32,7 +32,7 @@ techniques in modern processors will also be covered.
  
 <hr>
 
-<h2 align="left">Setup for the hands-on demonstration</h1>
+<h2 align="left">Setup for the hands-on demonstration</h2>
 
 Download the <a href="/cloud.zip">access key</a> to log into 
 your compute node.
