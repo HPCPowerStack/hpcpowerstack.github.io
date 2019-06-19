@@ -40,17 +40,17 @@ build an even stronger community.
 
 ## Proposed Agenda
 
-| Time         | Session                                                          |
-|--------------|------------------------------------------------------------------|
-| 9AM-9:30AM   | Welcome/PowerStack Overview                                      |
-| 9:30AM-11AM  | Invited Talks                                                    |
-| 11AM-11:30AM | Coffee Break                                                     |
-| 11:30AM-1PM  | Panel: Platform-Level Sensors and Controls                       |
-| 1PM-2PM      | Lunch                                                            |
-| 2PM-3PM      | Panel: Facility-Level Policies Application-Level Runtime Systems |
-| 3PM-4PM      | Panel: Adaptive Runtimes                                         |
-| 4PM-4:30PM   | Coffee Break                                                     |
-| 4:30PM-6PM   | Discussion on Next Steps                                         |
+| Time         | Session                                    |
+|--------------|--------------------------------------------|
+| 9AM-9:30AM   | Welcome/PowerStack Overview                |
+| 9:30AM-11AM  | Invited Talks                              |
+| 11AM-11:30AM | Coffee Break                               |
+| 11:30AM-1PM  | Panel: Platform-Level Sensors and Controls |
+| 1PM-2PM      | Lunch                                      |
+| 2PM-3PM      | Panel: Facility-Level Policies             |
+| 3PM-4PM      | Panel: Application-Level Runtime Systems   |
+| 4PM-4:30PM   | Coffee Break                               |
+| 4:30PM-6PM   | Discussion on Next Steps                   |
 
 ---
 
