@@ -24,7 +24,7 @@ layout: default
 ---
 
 ### [What is the goal of the PowerStack efforts?](#goal)
-The initial work towards the PowerStack started more than a year ago. The work
+The initial work towards the PowerStack started in 2017. The work
 arose out of the realization that there is no common consensus among the
 vendors/labs/academia on what software agents are needed to drive energy/power
 management across various layers of the system software stack and how they
