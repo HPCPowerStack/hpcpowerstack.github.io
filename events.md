@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-<h1 align="center">Previous and Upcoming Events</h1>
+<h1 align="center">Upcoming Events</h1>
+
+## PowerStack Seminar: Nov 12-14, 2019
+* [Seminar Info](powerstack-nov19.html)
+
+<h1 align="center">Past Events</h1>
 
 ## [ISC](https://isc-hpc.com): June 16-20, 2019
 
@@ -16,7 +21,7 @@ layout: default
 ---
 
 ## PowerStack Seminar: June 12-14, 2019
-* [Seminar Info](seminar.html)
+* [Seminar Info](lrz19.html)
 
 ---
 

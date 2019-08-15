@@ -9,7 +9,7 @@ layout: default
 Boltzmannstraße 1<br/>
 85748 Garching</font></p>
 
-## [NEW] First Day Logistics
+## First Day Logistics
 On the first day, please arrive to the main entry of LRZ by 8:45AM. We will
 start the seminar at 9AM.
 
@@ -23,8 +23,7 @@ for the "PowerStack Seminar“ (the rooms are directly near the main entry).
 ## Agenda
 
 The current agenda is below. There will be coffee breaks and on-site lunch
-provided each day. We will actively update this agenda as more
-details become available.
+provided each day.
 
 
 <table>
