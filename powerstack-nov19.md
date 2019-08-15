@@ -3,10 +3,11 @@ layout: default
 ---
 ![](images/denver.jpg)
 
-<h1 align="center">PowerStack Seminar -- RSVP here</h1>
+<h1 align="center">PowerStack Seminar -- <a
+href="https://forms.gle/jeHxthbQK1Veb47k7">RSVP</a></h1>
 <p align="center"><font size="+2"><b>Save the Dates: Nov 12-14, 2019 (Tues-Thurs)</b></font></p>
 <p align="center"><font size="+1">Location: TBD (Fort Collins or Colorado Springs)</font></p>
-<p align="center"><font size="+1">Registration Fee: About $150-$200 (includes
+<p align="center"><font size="+1">Registration Fee: Around $200 (includes
 daytime food expenses for all three days)</font></p>
 
 ## Agenda
