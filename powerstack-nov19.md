@@ -20,7 +20,7 @@ Denver International airport (DIA), which is 1 hour from Fort Collins and 1.5
 hours from Colorado Springs.
 
 ## Registration
-Please RSVP here. Registration fees will be requested in October.
+Please RSVP at this link <a href="https://forms.gle/jeHxthbQK1Veb47k7">here</a>. Registration fees will be requested in September/October.
 
 The registration fee will cover on-site lunch for all three days and coffee
 breaks.
