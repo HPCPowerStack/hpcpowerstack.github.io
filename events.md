@@ -3,7 +3,9 @@ layout: default
 ---
 <h1 align="center">Upcoming Events</h1>
 
-## PowerStack Seminar: Nov 12-14, 2019
+## PowerStack Seminar: Jun 2020 (dates TBD)
+
+## PowerStack Seminar: Nov 13-15, 2019
 * [Seminar Info](powerstack-nov19.html)
 
 <h1 align="center">Past Events</h1>
