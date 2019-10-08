@@ -3,9 +3,13 @@ layout: default
 ---
 <h1 align="center">Upcoming Events</h1>
 
-## PowerStack Seminar: Jun 2020 (dates TBD)
+## PowerStack Seminar: June 2020 (dates TBD)
 
-## PowerStack Seminar: Nov 13-15, 2019
+## [SC](https://sc19.supercomputing.org/): November 17-22, 2019
+* Wednesday, 20 November 2019, 12:15pm - 1:15pm: [HPC PowerStack: Community-Driven Collaboration on Power-Aware System Stack](https://sc19.supercomputing.org/?post_type=page&p=3480&sess=sess340)
+* Thursday, 21 November 2019, 8:30am - 5pm: [The HPC PowerStack: A Community-wide Collaboration Towards an Energy Efficient Software Stack](https://sc19.supercomputing.org/presentation/?id=rpost214&sess=sess348)
+
+## PowerStack Seminar: November 13-15, 2019
 * [Seminar Info](powerstack-nov19.html)
 
 <h1 align="center">Past Events</h1>
