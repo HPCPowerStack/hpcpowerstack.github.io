@@ -8,6 +8,8 @@ layout: default
 ---
 
 ## [SC](https://sc19.supercomputing.org/): November 17-22, 2019
+* Sun, November 18, 8:30am -- 12pm: [Boosting Power Efficiency of HPC Applications with GEOPM](https://sc19.supercomputing.org/presentation/?id=tut166&sess=sess178)
+* Mon, November 19, 9am -- 5:30pm: [Tenth Annual Workshop for the Energy Efficient HPC Working Group](https://sc19.supercomputing.org/presentation/?id=wksp111&sess=sess123)
 * Wed, November 20, 12:15pm -- 1:15pm: [HPC PowerStack: Community-Driven Collaboration on Power-Aware System Stack](https://sc19.supercomputing.org/?post_type=page&p=3480&sess=sess340)
 * Thurs, November 21, 8:30am -- 5pm: [The HPC PowerStack: A Community-wide Collaboration Towards an Energy Efficient Software Stack](https://sc19.supercomputing.org/presentation/?id=rpost214&sess=sess348)
 
