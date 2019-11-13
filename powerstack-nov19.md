@@ -1,28 +1,34 @@
 ---
 layout: default
 ---
-![](images/colorado_college.jpg)
+<p align="center">
+    <img src="images/colorado_college.jpg" height="350px">
+</p>
 
-<h1 align="center">PowerStack Seminar -- <a
-href="https://coloradocollege.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=37989&AppCode=REG&CC=119091703651">Register here</a></h1>
-<p align="center"><font size="+2">Nov 13-15, 2019 (Wed-Fri)</font></p>
-<p align="center"><font size="+1">Location:<br/>Worner Campus Center, Colorado
-College,<br/>902 N Cascade Ave<br/>Colorado Springs, CO, USA 80903</font></p>
-<p align="center"><font size="+1">Registration Fee: $190 (includes
-daytime food expenses for all three days)</font></p>
+<h1 align="center">PowerStack Seminar</h1>
 
-## Parking
-* Shuttle service is provided between The Mining Exchange Hotel and Worner Campus Center.
-Pick-up on day 1 is scheduled at 8am on Pikes Peak Avenue. This will be the
-only morning pick-up time.
-* If you are planning to drive, then you may park on the street. There are no designated
-parking lots for visitors. A recommended parking spot is along the Tejon Street.
+<p align="center"><font size="+2">November 13-15, 2019 (Wed-Fri)</font></p>
+<p align="center"><font size="+1"><b>Location</b><br/>Worner Campus Center, Colorado College,<br/>902 N Cascade Ave<br/>Colorado Springs, CO, USA 80903</font></p>
+<p align="center"><font size="+1"><b>Registration Fee</b><br/>$190 (includes daytime food expenses for all three days)</font></p>
+
+## First Day Logistics
+On the first day, please arrive to the main entry of Worner Campus Center by 8:45AM. We will start the seminar at 9AM.
+
+Shuttle service is provided between The Mining Exchange Hotel and Worner Campus Center. Pick-up on day 1 is scheduled at 8am on Pikes Peak Avenue. This will be the only morning pick-up time.
+
+If you are planning to drive, then you may park on the street. There are no
+designated parking lots for visitors. A recommended parking spot is along the
+Tejon Street.
+
+The seminar will be held in a lecture hall in the lower level of Worner Campus Center.
 
 ## Agenda
-The seminar will start at at 9AM on the first day and wrap-up around 3PM.
+The seminar will start at at 9AM on Wednesday, November 13 and wrap-up around
+3PM on Friday, November 15.
 
-* <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">Submit
-(or join) a Hackathon Project</a>
+The current agenda is below. We will continue updating this during the week.
+There will be coffee breaks and on-site lunch provided each day.
+
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0HJrPFbrMMwEpJdIfx4LpHAEpsCy29fLb9L1zgLkio9riYA/viewform">Breakout Session Preference</a>
 * <a href="https://powerstack.slack.com/signup">Join the PowerStack Slack Space</a>
 
@@ -34,9 +40,12 @@ The seminar will start at at 9AM on the first day and wrap-up around 3PM.
       <th>Topics</th>
     </tr>
     <tr>
-      <td>Nov-13-2019<br>Start Time: 9AM</td>
-      <td>Procurment and vendor discussions</td>
-      <td>
+      <td align="left">Nov-13-2019<br>Start Time: 9AM</td>
+      <td align="left">Procurment and vendor discussions</td>
+      <td align="left">
+        <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit
+(or join) a Hackathon Project!</a><br/><br/>
+
         Morning: 9AM (coffee break 10AM)
         <ul style="padding-left:20px">
           <li>Welcome and introduction of all attendees</li>
@@ -44,9 +53,10 @@ The seminar will start at at 9AM on the first day and wrap-up around 3PM.
           <li>First breakouts: (1) procurements and (2) vendor/integrator
 discussions</li>
         </ul>
+
         Lunch: 12PM<br/><br/>
 
-        Afternoon (coffee break 3:30PM)
+        Afternoon: (coffee break 3:30PM)
         <ul style="padding-left:20px">
           <li>Continue breakouts: (1) procurements and (2) vendor/integrator
 discussions</li>
@@ -56,15 +66,17 @@ projects and team members.</li>
       </td>
     </tr>
     <tr>
-      <td>Nov-14-2019</td>
-      <td>Hackathon</td>
-      <td>
-        Morning:
+      <td align="left">Nov-14-2019</td>
+      <td align="left">Hackathon</td>
+      <td align="left">
+        Morning: 9AM (coffee break 10AM)
         <ul style="padding-left:20px">
           <li>Recap of day 1.</li>
           <li>Hackathon projects in small groups.</li>
         </ul>
+
         Lunch: 12PM<br/><br/>
+
         Afternoon:
         <ul style="padding-left:20px">
           <li>Hackathon projects in small groups.</li>
@@ -74,16 +86,16 @@ projects and team members.</li>
       </td>
     </tr>
     <tr>
-      <td>Nov-15-2019</td>
-      <td>Engineering and research</td>
-      <td>
-        Morning:
+      <td align="left">Nov-15-2019</td>
+      <td align="left">Engineering and research</td>
+      <td align="left">
+        Morning: 9AM
         <ul style="padding-left:20px">
           <li>Recap of day 2.</li>
           <li>Second breakouts (focus on interoperability between layers): (1) engineering and (2) research/evaluation</li>
         </ul>
         Lunch: 12PM<br/><br/>
-        Afternoon (end 3PM):
+        Afternoon: End 3PM
         <ul style="padding-left:20px">
           <li>Recap all dicussions, next steps.</li>
         </ul>
@@ -115,10 +127,9 @@ rental, administrative fees, insurance, and registration-portal processing
 fees.
 
 ## Seminar Location
-Colorado College, Colorado Springs, Colorado, USA<br/>
-Worner Campus Center, Colorado College
+Worner Campus Center, Colorado College<br/>
 902 N Cascade Ave.<br/>
-Colorado Springs, CO 80903
+Colorado Springs, CO, USA 80903
 
 <a href="https://www.coloradocollege.edu/basics/campus/directions/">Getting to
 Colorado College</a>
