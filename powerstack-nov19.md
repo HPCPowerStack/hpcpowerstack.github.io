@@ -18,8 +18,6 @@ only morning pick-up time.
 * If you are planning to drive, then you may park on the street. There are no designated
 parking lots for visitors. A recommended parking spot is along the Tejon Street.
 
-## Call-In Information
-
 ## Agenda
 The seminar will start at at 9AM on the first day and wrap-up around 3PM.
 
