@@ -46,21 +46,20 @@ There will be coffee breaks and on-site lunch provided each day.
         <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit
 (or join) a Hackathon Project!</a><br/><br/>
 
-        Morning: 9AM (coffee break 10AM)
+        Morning: 9AM (coffee break 10:30AM)
         <ul style="padding-left:20px">
           <li>Welcome and introduction of all attendees</li>
           <li>Current status report</li>
-          <li>First breakouts: (1) procurements and (2) vendor/integrator
-discussions</li>
+          <li>11AM: Group-wide discussion on identifying use cases.</li>
         </ul>
 
         Lunch: 12PM<br/><br/>
 
         Afternoon: (coffee break 3:30PM)
         <ul style="padding-left:20px">
-          <li>Continue breakouts: (1) procurements and (2) vendor/integrator
-discussions</li>
-          <li>Recap day 1, give overview on plan for day 2. Identify hackathon
+          <li>1:00PM: Continue identifying use cases.</li>
+          <li>2:30PM: Group breakouts: (1) procurements and (2) engineering.
+          <li>4:30PM: Recap day 1, give overview on plan for day 2. Identify hackathon
 projects and team members.</li>
         </ul>
       </td>
@@ -92,7 +91,7 @@ projects and team members.</li>
         Morning: 9AM
         <ul style="padding-left:20px">
           <li>Recap of day 2.</li>
-          <li>Second breakouts (focus on interoperability between layers): (1) engineering and (2) research/evaluation</li>
+          <li>Second breakouts (focus on interoperability between layers): (1) vendor/integrator and (2) research/evaluation</li>
         </ul>
         Lunch: 12PM<br/><br/>
         Afternoon: End 3PM
