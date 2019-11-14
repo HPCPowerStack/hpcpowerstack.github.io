@@ -62,7 +62,7 @@ There will be coffee breaks and on-site lunch provided each day.
       </td>
     </tr>
     <tr>
-      <td align="left">Nov-14-2019</td>
+      <td align="left">Nov-14-2019<br>Start Time: 9AM</td>
       <td align="left">Hackathon</td>
       <td align="left">
         <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit (or join) a Hackathon Project!</a><br/><br/>
@@ -102,7 +102,6 @@ There will be coffee breaks and on-site lunch provided each day.
         End: 3PM
       </td>
     </tr>
--->
   </tbody>
 </table>
 
