@@ -78,6 +78,7 @@ projects and team members.</li>
 
         Afternoon:
         <ul style="padding-left:20px">
+          <li>Take group photo.</li>
           <li>Hackathon projects in small groups.</li>
           <li>Presentations of hackathon projects.</li>
           <li>Recap of day 2.</li>
