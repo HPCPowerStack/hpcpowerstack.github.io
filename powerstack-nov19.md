@@ -39,7 +39,7 @@ There will be coffee breaks and on-site lunch provided each day.
     </tr>
     <tr>
       <td align="left">Nov-13-2019<br>Start Time: 9AM</td>
-      <td align="left">Procurment and vendor discussions</td>
+      <td align="left">Procurement and vendor discussions</td>
       <td align="left">
         <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit (or join) a Hackathon Project!</a><br/><br/>
 
@@ -67,17 +67,23 @@ There will be coffee breaks and on-site lunch provided each day.
       <td align="left">
         <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit (or join) a Hackathon Project!</a><br/><br/>
 
-        Morning: 9AM (coffee break 10AM)
+        Morning: 9AM
         <ul style="padding-left:20px">
-          <li>Recap of day 1.</li>
-          <li>Hackathon projects in small groups.</li>
+          <li>Community Updates</li>
+            <ul>
+              <li>Power Management on K Supercomputer</li>
+              <li>GEOPM interoperability with RM</li>
+              <li>Variorum</li>
+              <li>ECP</li>
+              <li>Vendor updates</li>
+            </ul>
+          <li>Take group photo.</li>
         </ul>
 
         Lunch: 12PM<br/><br/>
 
         Afternoon:
         <ul style="padding-left:20px">
-          <li>Take group photo.</li>
           <li>Hackathon projects in small groups.</li>
           <li>Presentations of hackathon projects.</li>
           <li>Recap of day 2.</li>
@@ -97,7 +103,7 @@ There will be coffee breaks and on-site lunch provided each day.
         Lunch: 12PM<br/><br/>
         Afternoon:
         <ul style="padding-left:20px">
-          <li>Recap all dicussions, next steps.</li>
+          <li>Recap all discussions, next steps.</li>
         </ul>
         End: 3PM
       </td>
@@ -108,7 +114,7 @@ There will be coffee breaks and on-site lunch provided each day.
 ## Lodging
 For your convenience, we have a hotel block at the Mining Exchange. Please use the following link to make your reservation at a discounted rate: <a href="https://www.wyndhamhotels.com/wyndham-grand/colorado-springs-colorado/the-mining-exchange-a-wyndham-grand-hotel/rooms-rates?brand_id=GR&checkInDate=11/12/2019&checkOutDate=11/15/2019&useWRPoints=false&children=0&groupCode=11136796CO&adults=1&rooms=1&radius=25&latitude=38.8338816&longitude=-104.8213634&sessionId=1568128670">Mining Exchange Room Block</a>.
 
-Note: Part of the registration fee covers transportation between The Mining Exchange and Collorado College during the seminar.
+Note: Part of the registration fee covers transportation between The Mining Exchange and Colorado College during the seminar.
 
 ## Travel
 For those making travel arrangements to the seminar, we suggest flying into Denver International airport (DIA), which is 1.5 hours from Colorado Springs.
