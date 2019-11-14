@@ -16,9 +16,7 @@ On the first day, please arrive to the main entry of Worner Campus Center by 8:4
 
 Shuttle service is provided between The Mining Exchange Hotel and Worner Campus Center. Pick-up on day 1 is scheduled at 8am on Pikes Peak Avenue. This will be the only morning pick-up time.
 
-If you are planning to drive, then you may park on the street. There are no
-designated parking lots for visitors. A recommended parking spot is along the
-Tejon Street.
+If you are planning to drive, then you may park on the street. There are no designated parking lots for visitors. A recommended parking spot is along the Tejon Street.
 
 The seminar will be held in a lecture hall in the lower level of Worner Campus Center.
 
@@ -43,8 +41,7 @@ There will be coffee breaks and on-site lunch provided each day.
       <td align="left">Nov-13-2019<br>Start Time: 9AM</td>
       <td align="left">Procurment and vendor discussions</td>
       <td align="left">
-        <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit
-(or join) a Hackathon Project!</a><br/><br/>
+        <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit (or join) a Hackathon Project!</a><br/><br/>
 
         Morning: 9AM (coffee break 10:30AM)
         <ul style="padding-left:20px">
@@ -58,16 +55,18 @@ There will be coffee breaks and on-site lunch provided each day.
         Afternoon: (coffee break 3:30PM)
         <ul style="padding-left:20px">
           <li>1:00PM: Continue identifying use cases.</li>
-          <li>2:30PM: Group breakouts: (1) procurements and (2) engineering.
-          <li>4:30PM: Recap day 1, give overview on plan for day 2. Identify hackathon
-projects and team members.</li>
+          <li>2:30PM: Group breakouts: (1) procurements and (2) engineering.</li>
+          <li>4:30PM: Recap day 1, give overview on plan for day 2. Identify hackathon projects and team members.</li>
         </ul>
+        End: 5:15PM
       </td>
     </tr>
     <tr>
       <td align="left">Nov-14-2019</td>
       <td align="left">Hackathon</td>
       <td align="left">
+        <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit (or join) a Hackathon Project!</a><br/><br/>
+
         Morning: 9AM (coffee break 10AM)
         <ul style="padding-left:20px">
           <li>Recap of day 1.</li>
@@ -83,6 +82,7 @@ projects and team members.</li>
           <li>Presentations of hackathon projects.</li>
           <li>Recap of day 2.</li>
         </ul>
+        End:
       </td>
     </tr>
     <tr>
@@ -95,31 +95,27 @@ projects and team members.</li>
           <li>Second breakouts (focus on interoperability between layers): (1) vendor/integrator and (2) research/evaluation</li>
         </ul>
         Lunch: 12PM<br/><br/>
-        Afternoon: End 3PM
+        Afternoon:
         <ul style="padding-left:20px">
           <li>Recap all dicussions, next steps.</li>
         </ul>
+        End: 3PM
       </td>
     </tr>
+-->
   </tbody>
 </table>
 
 ## Lodging
-For your convenience, we have a hotel block at the Mining Exchange. Please use
-the following link to make your reservation at a discounted rate: <a
-href="https://www.wyndhamhotels.com/wyndham-grand/colorado-springs-colorado/the-mining-exchange-a-wyndham-grand-hotel/rooms-rates?brand_id=GR&checkInDate=11/12/2019&checkOutDate=11/15/2019&useWRPoints=false&children=0&groupCode=11136796CO&adults=1&rooms=1&radius=25&latitude=38.8338816&longitude=-104.8213634&sessionId=1568128670">Mining
-Exchange Room Block</a>.
+For your convenience, we have a hotel block at the Mining Exchange. Please use the following link to make your reservation at a discounted rate: <a href="https://www.wyndhamhotels.com/wyndham-grand/colorado-springs-colorado/the-mining-exchange-a-wyndham-grand-hotel/rooms-rates?brand_id=GR&checkInDate=11/12/2019&checkOutDate=11/15/2019&useWRPoints=false&children=0&groupCode=11136796CO&adults=1&rooms=1&radius=25&latitude=38.8338816&longitude=-104.8213634&sessionId=1568128670">Mining Exchange Room Block</a>.
 
-Note: Part of the registration fee covers transportation between The Mining
-Exchange and Collorado College during the seminar.
+Note: Part of the registration fee covers transportation between The Mining Exchange and Collorado College during the seminar.
 
 ## Travel
-For those making travel arrangements to the seminar, we suggest flying into
-Denver International airport (DIA), which is 1.5 hours from Colorado Springs.
+For those making travel arrangements to the seminar, we suggest flying into Denver International airport (DIA), which is 1.5 hours from Colorado Springs.
 
 ## Registration
-Please register at this link <a
-href="https://coloradocollege.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=37989&AppCode=REG&CC=119091703651">here</a>.
+Please register at this link <a href="https://coloradocollege.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=37989&AppCode=REG&CC=119091703651">here</a>.
 
 The registration fee covers costs associated with on-site lunch and coffee
 breaks, transportation to/from hotel, room reservations, setup labor, equipment
@@ -131,7 +127,6 @@ Worner Campus Center, Colorado College<br/>
 902 N Cascade Ave.<br/>
 Colorado Springs, CO, USA 80903
 
-<a href="https://www.coloradocollege.edu/basics/campus/directions/">Getting to
-Colorado College</a>
+<a href="https://www.coloradocollege.edu/basics/campus/directions/">Getting to Colorado College</a>
 
 [Back](./)
