@@ -75,37 +75,35 @@ There will be coffee breaks and on-site lunch provided each day.
               <li>GEOPM interoperability with RM</li>
               <li>Variorum</li>
               <li>ECP</li>
-              <li>Vendor updates</li>
             </ul>
           <li>Take group photo.</li>
         </ul>
 
         Lunch: 12PM<br/><br/>
 
-        Afternoon:
+        Afternoon: 1PM
         <ul style="padding-left:20px">
-          <li>Hackathon projects in small groups.</li>
-          <li>Presentations of hackathon projects.</li>
-          <li>Recap of day 2.</li>
+          <li>Continue feedback on GEOPM interoperability with RM</li>
+          <li>2:30PM-4:30PM Hackathon projects in small groups.</li>
+          <li>4:30PM Recap of day 2.</li>
         </ul>
-        End:
+        End: 5PM
       </td>
     </tr>
     <tr>
-      <td align="left">Nov-15-2019</td>
+      <td align="left">Nov-15-2019 Start Time: 9AM</td>
       <td align="left">Engineering and research</td>
       <td align="left">
         Morning: 9AM
         <ul style="padding-left:20px">
-          <li>Recap of day 2.</li>
-          <li>Second breakouts (focus on interoperability between layers): (1) vendor/integrator and (2) research/evaluation</li>
+          <li>9AM-9:15AM Lightning presentations of hackathon projects.</li>
+          <li>9:15AM-9:30AM Argo Updates</li>
+          <li>9:30AM-11AM Discuss topics for upcoming calls, determine deliverables.</li>
+          <li>(if time) Second breakouts (focus on interoperability between layers): (1) vendor/integrator and (2) research/evaluation</li>
         </ul>
-        Lunch: 12PM<br/><br/>
-        Afternoon:
-        <ul style="padding-left:20px">
-          <li>Recap all discussions, next steps.</li>
-        </ul>
-        End: 3PM
+        End: 12:15PM<br/><br/>
+        Lunch<br/><br/>
+        2PM Shuttle departs from Worner Center<br/>
       </td>
     </tr>
   </tbody>
