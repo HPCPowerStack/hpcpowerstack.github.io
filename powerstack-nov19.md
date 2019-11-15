@@ -38,7 +38,7 @@ There will be coffee breaks and on-site lunch provided each day.
       <th>Topics</th>
     </tr>
     <tr>
-      <td align="left">Nov-13-2019<br>Start Time: 9AM</td>
+      <td align="left">Nov-13-2019<br>Start Time: 9AM<br/>End Time: 5:15PM</td>
       <td align="left">Procurement and vendor discussions</td>
       <td align="left">
         <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit (or join) a Hackathon Project!</a><br/><br/>
@@ -62,7 +62,7 @@ There will be coffee breaks and on-site lunch provided each day.
       </td>
     </tr>
     <tr>
-      <td align="left">Nov-14-2019<br>Start Time: 9AM</td>
+      <td align="left">Nov-14-2019<br>Start Time: 9AM<br/>End Time: 5PM</td>
       <td align="left">Hackathon</td>
       <td align="left">
         <a href="https://docs.google.com/spreadsheets/d/1WGK1nAUDhYHLszKJnJPB9pi3MhvcNoBKsjx9I51RYAI/edit#gid=0">*Submit (or join) a Hackathon Project!</a><br/><br/>
@@ -91,9 +91,11 @@ There will be coffee breaks and on-site lunch provided each day.
       </td>
     </tr>
     <tr>
-      <td align="left">Nov-15-2019 Start Time: 9AM</td>
+      <td align="left">Nov-15-2019 Start Time: 9AM<br/>End Time: 12:15PM</td>
       <td align="left">Engineering and research</td>
       <td align="left">
+        <a href="https://docs.google.com/spreadsheets/d/14CvkRy837X8yIJnlxMkTe5gGcKpK6lALFXlN5vgwto0/edit?usp=sharing">Small groups formation</a><br/><br/>
+
         Morning: 9AM
         <ul style="padding-left:20px">
           <li>9AM-9:15AM Lightning presentations of hackathon projects.</li>
