@@ -3,9 +3,13 @@ layout: default
 ---
 <h1 align="center">Upcoming Events</h1>
 
-## PowerStack Seminar: June 2020 (dates TBD)
+## PowerStack Seminar: June 2020
+* [Save the Date](raitenhaslach20.html)
 
 ---
+---
+
+<h1 align="center">Past Events</h1>
 
 ## [SC](https://sc19.supercomputing.org/): November 17-22, 2019
 * Sun, November 18, 8:30am -- 12pm: Half-Day Tutorial<br>[Boosting Power Efficiency of HPC Applications with GEOPM](https://sc19.supercomputing.org/presentation/?id=tut166&sess=sess178)
@@ -18,7 +22,7 @@ layout: default
 ## PowerStack Seminar: November 13-15, 2019
 * [Seminar Info](powerstack-nov19.html)
 
-<h1 align="center">Past Events</h1>
+---
 
 ## [ISC](https://isc-hpc.com): June 16-20, 2019
 
