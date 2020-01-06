@@ -3,7 +3,7 @@ layout: default
 ---
 ![](images/lrz-building.jpg)
 
-<h1 align="center">2nd Annual PowerStack Seminar -- <a href="https://interplan.eventsair.com/powerstack-2019/powerstack2019/Site/Register">Registration</a></h1>
+<h1 align="center">2nd Annual PowerStack Seminar</h1>
 <p align="center"><font size="+2">June 12-14, 2019</font></p>
 <p align="center"><font size="+1">Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften<br/>
 Boltzmannstraße 1<br/>
