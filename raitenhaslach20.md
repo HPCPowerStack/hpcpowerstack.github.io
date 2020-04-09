@@ -36,8 +36,7 @@ The HPC PowerStack core-committee
 
 <h1 align="center">PowerStack Seminar</h1>
 
-<p align="center"><font size="+1">June 17-19, 2020 (Wed-Fri)</font></p>
-<p align="center"><font size="+1">Virtual Event</font></p>
+<p align="center"><font size="+1">June 17-19, 2020 (Wed-Fri)<br/>Virtual Event</font></p>
 
 The seminar on "The HPC PowerStack: Enabling Efficient Power Management in
 High-Performance Computing through Hierarchical Design" will be held digitially
