@@ -64,6 +64,7 @@ which are being actively defined and developed, are listed below:
 * Ryuichi Sakamoto, University of Tokyo, Japan
 * Martin Schulz, Technical University Munich, Germany
 * Carsten Trinitis, Technical University Munich, Germany
+* Torsten Wilde, HPE, Germany
 
 ## [](#header-3)Contact
 
