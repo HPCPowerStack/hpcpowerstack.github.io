@@ -35,7 +35,7 @@ ultimately lead to standardization or - at least - homogenization efforts for
 this important piece of the HPC software stack.
 
 If you are interested in attending, please let one of the organizers know.
-More information to come in the coming months.
+
 
 ## Agenda
 
@@ -50,6 +50,7 @@ More information to come in the coming months.
     - Tuning working group (Aniruddha Marathe)
 
 - Break
+ - 
  
 - Deep dive on planned white paper (lead: Masaaki Kondo)
     - Presentation of current status
@@ -66,6 +67,7 @@ More information to come in the coming months.
     - Exploration of new use cases to be added
     
 - Break
+    -
 
 - Vendor-Feature overview driven by Survey undertaken by the PowerAPI team
 - Deep dive into Variorum (lead: Stephanie Labasan)
@@ -77,7 +79,8 @@ More information to come in the coming months.
     - Solicitation for adhoc topics,  e.g., feedback for SW devel
  
  - Break
- 
+    -
+    
 - Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki)
 - Plans and action items for next 6 month to November meeting (all)
 - Long term strategic outlook (all)
