@@ -12,21 +12,9 @@ unable to attend prior events due to travel restrictions. Like past years, we
 will schedule this event during the week prior to the ISC conference (which is
 also going digital).
 
-The tentative dates for the PowerStack seminar will be June 17th (Wed) through
-June 19th (Fri). Please mark these days on your calendars - a few hours each
-day. The exact meeting timings will depend on the specific topic and the
-time-zone of the attendees contributing to that topic. We are quite hopeful
-that this will lead to more focused discussions. The final agenda will be sent
-out in May. The current plan is to divide the three days and the time-slots
-into different focus areas based on the ongoing working groups.
-
-A note on our past plans from Nov’19 of having all the working groups sync in
-April: The different teams have been meeting periodically since last December
-and are making progress in their respective deliverables (literature survey,
-white papers, software). Understandably, COVID-19 challenges and other
-conference deadlines, their progress has been slow, but steady. In light of
-recent events, we might just combine this pre-planned sync with our 3-day
-seminar in June. This is TBD.
+The PowerStack seminar will be June 17th (Wed) through
+June 19th (Fri) with the exact time to be decided soon (we plan on 3 hour blocks on each day). 
+We are quite hopeful that this will lead to more focused discussions.  The goal is provide updates from the working groups that had formed at the last seminar in November and to discuss the resulting documents and their next steps. Attendance will be free of charge and a registration site will be available soon. 
 
 Please feel free to forward the news of our digital seminar to other
 colleagues, as needed.
@@ -51,6 +39,47 @@ More information to come in the coming months.
 
 ## Agenda
 
-TBD
+### June 17th, 2020 (3 hours)
+ 
+ - Welcome and meeting goals (Sid Jana and Martin Schulz)
+ - Introduction of Attendees (all)
+ - Short working group updates and immideate feedback
+    - White paper working group (Masaaki Kondo)
+    - Use case working group (Torsten Wilde)
+    - Low-level access working group (Stephanie Labasan)
+    - Tuning working group (Aniruddha Marathe)
+
+- Break
+ 
+- Deep dive on planned white paper (lead: Masaaki Kondo)
+    - Presentation of current status
+    - Discussion of open questions
+    - Required feedback from entire group to the working group
+
+
+            
+### June 18th, 2020 (3 hours)
+ 
+ - Deep dive into use case documents (lead: Torsten Wilde)
+    - Presentation of approach and template
+    - Discussion of existing use cases
+    - Exploration of new use cases to be added
+    
+- Break
+
+- Vendor-Feature overview driven by Survey undertaken by the PowerAPI team
+- Deep dive into Variorum (lead: Stephanie Labasan)
+ 
+  
+### June 19th, 2020 (3 hours)
+ 
+ - Deep dive into tuning and auto-tuning options (lead: Aniruddha Marathe)
+    - Solicitation for adhoc topics,  e.g., feedback for SW devel
+ 
+ - Break
+ 
+- Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki)
+- Plans and action items for next 6 month to November meeting (all)
+- Long term strategic outlook (all)
 
 [Back](./)

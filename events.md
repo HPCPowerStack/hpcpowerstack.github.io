@@ -3,8 +3,8 @@ layout: default
 ---
 <h1 align="center">Upcoming Events</h1>
 
-## PowerStack Seminar: June 2020
-* [Save the Date](raitenhaslach20.html)
+## PowerStack Seminar: June 17-19, 2020
+* [Virtual PowerStack Seminar](raitenhaslach20.html)
 
 ---
 ---
