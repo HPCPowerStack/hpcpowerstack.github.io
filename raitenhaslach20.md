@@ -50,7 +50,6 @@ If you are interested in attending, please let one of the organizers know.
     - Tuning working group (Aniruddha Marathe)
 
 - Break
- - 
  
 - Deep dive on planned white paper (lead: Masaaki Kondo)
     - Presentation of current status
@@ -67,7 +66,6 @@ If you are interested in attending, please let one of the organizers know.
     - Exploration of new use cases to be added
     
 - Break
-    -
 
 - Vendor-Feature overview driven by Survey undertaken by the PowerAPI team
 - Deep dive into Variorum (lead: Stephanie Labasan)
@@ -79,8 +77,7 @@ If you are interested in attending, please let one of the organizers know.
     - Solicitation for adhoc topics,  e.g., feedback for SW devel
  
  - Break
-    -
-    
+ 
 - Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki)
 - Plans and action items for next 6 month to November meeting (all)
 - Long term strategic outlook (all)
