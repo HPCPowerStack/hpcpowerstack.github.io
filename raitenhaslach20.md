@@ -39,7 +39,16 @@ If you are interested in attending, please let one of the organizers know.
 
 ## Agenda
 
-### June 17th, 2020 (3 hours)
+### On each day, we'll use a 3 hour slot starting at the following time:
+- 7am US Pacific Time
+- 10am US Eastern Time
+- 3pm UK  Time
+- 4pm Central Europe/Germany Time
+- 11pm Japan Time
+
+Breaks will be after roughly minutes, schedule permitting.
+
+### June 17th, 2020 
  
  - Welcome and meeting goals (Sid Jana and Martin Schulz)
  - Introduction of Attendees (all)
@@ -58,7 +67,7 @@ If you are interested in attending, please let one of the organizers know.
 
 
             
-### June 18th, 2020 (3 hours)
+### June 18th, 2020 
  
  - Deep dive into use case documents (lead: Torsten Wilde)
     - Presentation of approach and template
@@ -71,7 +80,7 @@ If you are interested in attending, please let one of the organizers know.
 - Deep dive into Variorum (lead: Stephanie Labasan)
  
   
-### June 19th, 2020 (3 hours)
+### June 19th, 2020 
  
  - Deep dive into tuning and auto-tuning options (lead: Aniruddha Marathe)
     - Solicitation for adhoc topics,  e.g., feedback for SW devel
