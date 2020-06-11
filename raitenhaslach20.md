@@ -46,7 +46,7 @@ If you are interested in attending, please let one of the organizers know.
 - 4pm Central Europe/Germany Time
 - 11pm Japan Time
 
-Breaks will be after roughly minutes, schedule permitting.
+Breaks will be after roughly 60 minutes, schedule permitting.
 
 ### June 17th, 2020 
  
@@ -76,13 +76,15 @@ Breaks will be after roughly minutes, schedule permitting.
     
 - Break
 
-- Vendor-Feature overview driven by Survey undertaken by the PowerAPI team
-- Deep dive into Variorum (lead: Stephanie Labasan)
+- Deep dive into abstraction of Platform level knobs (lead: Stephanie Labasan)
+    - Variorum (lead: Stephanie Labasan)
+    - Insights from recent survey on vendor-specific HW/FW knobs
+
  
   
 ### June 19th, 2020 
  
- - Deep dive into tuning and auto-tuning options (lead: Aniruddha Marathe)
+ - Deep dive into tuning and auto-tuning options (lead: Aniruddha Marathe, Xingfu Wu)
     - Solicitation for adhoc topics,  e.g., feedback for SW devel
  
  - Break
