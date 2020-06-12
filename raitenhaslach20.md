@@ -76,9 +76,9 @@ Breaks will be after roughly 60 minutes, schedule permitting.
     
 - Break
 
-- Deep dive into abstraction of Platform level knobs (lead: Stephanie Labasan)
+- Deep dive into abstraction of Platform level knobs
     - Variorum (lead: Stephanie Labasan)
-    - Insights from recent survey on vendor-specific HW/FW knobs
+    - Insights from recent survey on vendor-specific HW/FW knobs (lead: Ryan Grant)
 
  
   
