@@ -54,11 +54,11 @@ If you are interested in attending, please let one of the organizers know.
  
  - Welcome and meeting goals (Martin Schulz and Sid Jana) 10 mins
  - Introduction of Attendees (all) 20 mins
- - Short working group updates and immideate feedback - 20 mins
+ - Short working group updates and immediate feedback - 20 mins
     - White paper working group (Masaaki Kondo) 
     - Use case working group (Torsten Wilde)
     - Low-level access working group (Stephanie Labasan)
-    - Tuning working group (Aniruddha Marathe)
+    - End-to-end Auto-Tuning working group (Aniruddha Marathe)
 
 - Break 10 mins
  
