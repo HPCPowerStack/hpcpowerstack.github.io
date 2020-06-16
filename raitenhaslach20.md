@@ -36,61 +36,73 @@ this important piece of the HPC software stack.
 
 If you are interested in attending, please let one of the organizers know.
 
+## Meeting Dial-in details:
 
-## Agenda
+### Zoom meeting: <a href="https://us02web.zoom.us/j/84923795585?pwd=VzFpQk5xVDFLYi9BT1phYTB3bldXUT09"> Link </a>
 
-### On each day, we'll use a 3 hour slot starting at the following time:
+### Time: On each day, we'll use a 3 hour slot starting at the following time:
 - 7am US Pacific Time
 - 10am US Eastern Time
 - 3pm UK  Time
 - 4pm Central Europe/Germany Time
 - 11pm Japan Time
 
-Breaks will be after roughly 60 minutes, schedule permitting.
+
+## Agenda (Tentative)
 
 ### June 17th, 2020 
  
- - Welcome and meeting goals (Sid Jana and Martin Schulz)
- - Introduction of Attendees (all)
- - Short working group updates and immideate feedback
-    - White paper working group (Masaaki Kondo)
+ - Welcome and meeting goals (Martin Schulz and Sid Jana) 10 mins
+ - Introduction of Attendees (all) 20 mins
+ - Short working group updates and immideate feedback - 20 mins
+    - White paper working group (Masaaki Kondo) 
     - Use case working group (Torsten Wilde)
     - Low-level access working group (Stephanie Labasan)
     - Tuning working group (Aniruddha Marathe)
 
-- Break
+- Break 10 mins
  
-- Deep dive on planned white paper (lead: Masaaki Kondo)
+- Deep dive on planned white paper (lead: Masaaki Kondo) 90 mins
     - Presentation of current status
+    - Feedback on paper structure (draft shared via mailing list)
     - Discussion of open questions
-    - Required feedback from entire group to the working group
+	- validating a PowerStack implementation
+	- Conformance and compliance to
+	- verifiability, reliability, reproducibility
 
 
             
 ### June 18th, 2020 
  
- - Deep dive into use case documents (lead: Torsten Wilde)
-    - Presentation of approach and template
+ - Deep dive into use case documents (lead: Torsten Wilde) 80 mins
     - Discussion of existing use cases
-    - Exploration of new use cases to be added
+    - Prioritization of use cases
     
-- Break
+- Break 10mins
 
-- Deep dive into abstraction of Platform level knobs
-    - Variorum (lead: Stephanie Labasan)
+- Deep dive into abstraction of Platform level knobs - 15 mins
     - Insights from recent survey on vendor-specific HW/FW knobs (lead: Ryan Grant)
+
+- Interfaces among PS components
+    - Variorum (lead: Stephanie Labasan) 25 mins
+    - PowerAPI (lead: Ryan Grant) 25 mins
+    - GEOPM RM-interface and PlatformIO (lead: Sid Jana) 25 mins
+
 
  
   
 ### June 19th, 2020 
  
- - Deep dive into tuning and auto-tuning options (lead: Aniruddha Marathe, Xingfu Wu)
-    - Solicitation for adhoc topics,  e.g., feedback for SW devel
+- Deep dive into end-to-end auto-tuning PS framework (lead: Aniruddha Marathe, Xingfu Wu) 80 mins
+    - Solicitation for feedback on open challenges, site-specific use cases, open research questions
+    - call-for-collaborations on open research topics 
+
  
- - Break
+- Break 10 mins
  
-- Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki)
-- Plans and action items for next 6 month to November meeting (all)
-- Long term strategic outlook (all)
+- Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki) 90 mins
+	- Plans and action items for next 6 month to November meeting (all)
+	- Long term strategic outlook (all)
+	- Definition of PowerStack (all)
 
 [Back](./)
