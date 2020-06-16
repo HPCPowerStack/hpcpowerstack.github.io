@@ -50,7 +50,7 @@ If you are interested in attending, please let one of the organizers know.
 
 ## Agenda (Tentative)
 
-### June 17th, 2020 
+### June 17th, 2020 (Wednesday)
  
  - Welcome and meeting goals (Martin Schulz and Sid Jana) 10 mins
  - Introduction of Attendees (all) 20 mins
@@ -72,7 +72,7 @@ If you are interested in attending, please let one of the organizers know.
 
 
             
-### June 18th, 2020 
+### June 18th, 2020 (Thursday)
  
  - Deep dive into use case documents (lead: Torsten Wilde) 80 mins
     - Discussion of existing use cases
@@ -91,7 +91,7 @@ If you are interested in attending, please let one of the organizers know.
 
  
   
-### June 19th, 2020 
+### June 19th, 2020 (Friday) 
  
 - Deep dive into end-to-end auto-tuning PS framework (lead: Aniruddha Marathe, Xingfu Wu) 80 mins
     - Solicitation for feedback on open challenges, site-specific use cases, open research questions
