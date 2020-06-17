@@ -38,6 +38,10 @@ If you are interested in attending, please let one of the organizers know.
 
 ## Meeting Dial-in details:
 
+### Shared drive for notes: <a href="https://drive.google.com/drive/folders/1IXJKWcJ5Q07NcHCeV8DMTcwfh0bipDwz?usp=sharing"> Link </a> (Includes notes from the working groups)
+
+### Slack channel: <a href="https://powerstack.slack.com/"> Link </a>
+
 ### Zoom meeting: <a href="https://us02web.zoom.us/j/84923795585?pwd=VzFpQk5xVDFLYi9BT1phYTB3bldXUT09"> Link </a>
 
 ### Time: On each day, we'll use a 3 hour slot starting at the following time:
@@ -52,7 +56,7 @@ If you are interested in attending, please let one of the organizers know.
 
 ### June 17th, 2020 (Wednesday)
  
- - Welcome and meeting goals (Martin Schulz and Sid Jana) 10 mins
+ - Welcome and meeting goals (Martin Schulz and Sid Jana) 15 mins
  - Introduction of Attendees (all) 20 mins
  - Short working group updates and immediate feedback - 20 mins
     - White paper working group (Masaaki Kondo) 
@@ -71,7 +75,7 @@ If you are interested in attending, please let one of the organizers know.
 	- verifiability, reliability, reproducibility
 
 
-            
+
 ### June 18th, 2020 (Thursday)
  
  - Deep dive into use case documents (lead: Torsten Wilde) 80 mins
@@ -80,8 +84,7 @@ If you are interested in attending, please let one of the organizers know.
     
 - Break 10mins
 
-- Deep dive into abstraction of Platform level knobs - 15 mins
-    - Insights from recent survey on vendor-specific HW/FW knobs (lead: Ryan Grant)
+- Insights from recent survey on vendor-specific HW/FW knobs (lead: Ryan Grant) 15 mins
 
 - Interfaces among PS components
     - Variorum (lead: Stephanie Labasan) 25 mins
@@ -89,7 +92,6 @@ If you are interested in attending, please let one of the organizers know.
     - GEOPM RM-interface and PlatformIO (lead: Sid Jana) 25 mins
 
 
- 
   
 ### June 19th, 2020 (Friday) 
  
@@ -97,7 +99,6 @@ If you are interested in attending, please let one of the organizers know.
     - Solicitation for feedback on open challenges, site-specific use cases, open research questions
     - call-for-collaborations on open research topics 
 
- 
 - Break 10 mins
  
 - Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki) 90 mins
