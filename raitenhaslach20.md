@@ -95,14 +95,17 @@ If you are interested in attending, please let one of the organizers know.
   
 ### June 19th, 2020 (Friday) 
  
-- Deep dive into end-to-end auto-tuning PS framework (lead: Aniruddha Marathe, Xingfu Wu) 80 mins
-    - Solicitation for feedback on open challenges, site-specific use cases, open research questions
-    - call-for-collaborations on open research topics 
+- PowerAPI Updates and Feedback Solicitation (lead: Ryan Grant) 15 mins
+
+- Deep dive into end-to-end auto-tuning PS framework (lead: Aniruddha Marathe, Xingfu Wu) 75 mins
+    - Feedback solicitation on open challenges, site-specific use cases, open research questions
+    - Call-for-collaborations on open research topics 
 
 - Break 10 mins
+
+- Short Term: Plans and action items for the next ~5 months through the meeting in Nov’20 (all) 20 mins
  
-- Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki) 90 mins
-	- Plans and action items for next 6 month to November meeting (all)
+- Definition of PowerStack / Mandatory vs. Optional vs. Desired Features (lead: Tapasya Patki) 60 mins
 	- Long term strategic outlook (all)
 	- Definition of PowerStack (all)
 
