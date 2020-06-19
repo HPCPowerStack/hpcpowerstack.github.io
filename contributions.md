@@ -4,7 +4,7 @@ layout: default
 
 <h1 align="center">Contact Info, Collaborations</h1>
 
-### Slack channel: <a href="https://powerstack.slack.com/"> Link </a>
+### Slack channel: <a href="https://join.slack.com/t/powerstack/shared_invite/zt-9vlq4d3a-Jw~NXnlMMwTWND9IuF1ztA"> workspace subscription link</a>
 
 ### Group mailing list: <a href="https://groups.google.com/forum/#!forum/powerstack-announce"> Archive and subscription list </a>
 
