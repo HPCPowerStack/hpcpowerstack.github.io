@@ -14,7 +14,7 @@ also going digital).
 
 The PowerStack seminar will be June 17th (Wed) through
 June 19th (Fri) with the exact time to be decided soon (we plan on 3 hour blocks on each day). 
-We are quite hopeful that this will lead to more focused discussions.  The goal is provide updates from the working groups that had formed at the last seminar in November and to discuss the resulting documents and their next steps. Attendance will be free of charge and a registration site will be available soon. 
+We are quite hopeful that this will lead to more focused discussions.  The goal is provide updates from the working groups that had formed at the last seminar in November and to discuss the resulting documents and their next steps. Attendance will be free of charge. Registration link below 
 
 Please feel free to forward the news of our digital seminar to other
 colleagues, as needed.
@@ -36,13 +36,17 @@ this important piece of the HPC software stack.
 
 If you are interested in attending, please let one of the organizers know.
 
-## Meeting Dial-in details:
+## Meeting logistics:
 
-### Shared drive for notes: <a href="https://drive.google.com/drive/folders/1IXJKWcJ5Q07NcHCeV8DMTcwfh0bipDwz?usp=sharing"> Link </a> (Includes notes from the working groups)
+### Registration (free): <a href=""> Link </a>
+
+### Shared drive for notes: <a href="https://drive.google.com/drive/folders/1IXJKWcJ5Q07NcHCeV8DMTcwfh0bipDwz?usp=sharing"> Link for Jun'20 </a> (Includes notes from the working groups)
 
 ### Slack channel: <a href="https://powerstack.slack.com/"> Link </a>
 
-### Zoom meeting: <a href="https://us02web.zoom.us/j/84923795585?pwd=VzFpQk5xVDFLYi9BT1phYTB3bldXUT09"> Link </a>
+### Group mailing list: <a href="https://groups.google.com/forum/#!forum/powerstack-announce"> Archive and subscription list </a>
+
+### Meeting dial-in link: <a href="https://us02web.zoom.us/j/84923795585?pwd=VzFpQk5xVDFLYi9BT1phYTB3bldXUT09"> Zoom URL </a>
 
 ### Time: On each day, we'll use a 3 hour slot starting at the following time:
 - 7am US Pacific Time
@@ -50,6 +54,8 @@ If you are interested in attending, please let one of the organizers know.
 - 3pm UK  Time
 - 4pm Central Europe/Germany Time
 - 11pm Japan Time
+
+
 
 
 ## Agenda (Tentative)
