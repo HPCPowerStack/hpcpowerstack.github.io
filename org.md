@@ -18,5 +18,6 @@ layout: default
 ## [](#header-3)Contact
 
 Martin Schulz, schulzm - at - in.tum.de
+Sid Jana, siddhartha - dot - jana - at - intel.com
 
 [Back](./)
