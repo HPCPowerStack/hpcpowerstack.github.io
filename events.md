@@ -9,7 +9,8 @@ layout: default
 ---
 
 ## PowerStack Seminar: November, 2022
-* Virtual/In-person PowerStack Seminar: Dates & Agenda TBD
+* In-person PowerStack face-to-face: Nov 10 & 11, 2022
+* More details: See [relevant tab](powerstack22.html)
 
 ---
 ---
@@ -17,7 +18,7 @@ layout: default
 <h1 align="center">Past Events</h1>
 
 ## PowerStack Seminar: June 17-19, 2020
-* [Virtual PowerStack Seminar](raitenhaslach20.html)
+* [Past Virtual PowerStack Seminar](raitenhaslach20.html)
 
 ---
 
@@ -57,7 +58,7 @@ layout: default
 ---
 
 ## PowerStack Seminar: June 20-22, 2018
-* [Seminar Info](raitenhaslach18.html)
+* [Past Seminar Info](raitenhaslach18.html)
 * [Seminar Travel](travel18.html)
 * [Seminar Agenda](agenda18.html)
 * [Strawman Document](strawman.pdf)
