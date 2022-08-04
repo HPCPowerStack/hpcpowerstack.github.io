@@ -4,7 +4,7 @@ layout: default
 
 ![](images/venue_ps22.jpg)
 
-<p align="center"><font size="+2"><b>THIS WILL BE AN IN-PERSON MEETING IN NOVEMENT 2022</b></font></p><br/>
+<p align="center"><font size="+2"><b>THIS WILL BE AN IN-PERSON MEETING IN NOVEMBER 2022</b></font></p><br/>
 The PowerStack committee plans on organizing its annual seminar as a in-person. This structure has the additional benefit of including participants who have been unable to attend prior events due to travel restrictions. Like past years, we will schedule this event during the week prior to the SC conference (which will be located at Dallas).
 
 The PowerStack seminar will be a two-day event on November 10th (Thurs) and November 11th (Fri), from 8am to 5pm (Central US Time - CDT). 
@@ -17,7 +17,7 @@ The HPC PowerStack core-committee
 
 <h1 align="center">PowerStack Seminar</h1>
 
-<p align="center"><font size="+1">June 17-19, 2020 (Wed-Fri)<br/>Virtual Event</font></p>
+<p align="center"><font size="+1">November 10-11, 2022 (Thurs-Fri)<br/>In-person Event</font></p>
 
 The seminar on "The HPC PowerStack: Enabling Efficient Power Management in
 High-Performance Computing through Hierarchical Design" will be held digitially
@@ -42,7 +42,7 @@ This is a closed meeting and seating is limited! If you are interested in attend
 
 ### Venue: IBM Innovation Studio, 1177 S Belt Line Rd, Coppell TX 75019
 
-### Accommodation: <a href=""> TBD </a>
+### Accommodation: <a href="PS_2022_hotels.pdf"> List of nearby hotels </a>
 
 ### Time: Each day, 8 am to 5 pm (CDT)
 
