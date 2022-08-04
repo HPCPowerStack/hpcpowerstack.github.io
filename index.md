@@ -52,21 +52,28 @@ which are being actively defined and developed, are listed below:
 
 ## [](#header-2)Core Committee Members (alphabetical order)
 
-* Stephanie Brink, Lawrence Livermore National Laboratory, USA
-* Christopher Cantalupo, Intel Corporation, USA
-* Jonathan Eastep, Intel Corporation, USA
-* Siddhartha Jana, Energy Efficient High Performance Computing Working Group, Global
-* Masaaki Kondo, University of Tokyo, Japan
-* Matthias Maiterth, Ludwig-Maximilians University, Germany
-* Aniruddha Marathe, Lawrence Livermore National Laboratory, USA
-* Tapasya Patki, Lawrence Livermore National Laboratory, USA
-* Barry Rountree, Lawrence Livermore National Laboratory, USA
-* Ryuichi Sakamoto, University of Tokyo, Japan
-* Martin Schulz, Technical University Munich, Germany
-* Carsten Trinitis, Technical University Munich, Germany
-* Torsten Wilde, HPE, Germany
+* Eishi Arima, Technical University Munich, Germany</li>
+* Stephanie Brink, Lawrence Livermore National Laboratory, USA</li>
+* Christopher Cantalupo, Intel Corporation, USA</li>
+* Jonathan Eastep, Intel Corporation, USA</li>
+* Siddhartha Jana, Energy Efficient High Performance Computing Working Group, Global</li>
+* Masaaki Kondo, Keio University / RIKEN, Japan</li>
+* Matthias Maiterth, Technical University Munich, Germany</li>
+* Aniruddha Marathe, Lawrence Livermore National Laboratory, USA</li>
+* Tapasya Patki, Lawrence Livermore National Laboratory, USA</li>
+* Todd Rosedahl, IBM, USA</li>
+* Barry Rountree, Lawrence Livermore National Laboratory, USA</li>
+* Ryuichi Sakamoto, University of Tokyo, Japan</li>
+* Martin Schulz, Technical University Munich, Germany</li>
+* Carsten Trinitis, Technical University Munich, Germany</li>
+* Joseph Weidendorfer, Technical University Munich, Germany</li>
+* Torsten Wilde, Hewlett Packard Enterprise, Germany</li>
+* Kazutomo Yoshii, Argonne National Lab, USA</li>
+
+
 
 ## [](#header-3)Contact
 
+Sid Jana, siddhartha - dot - jana - at - intel.com 
 Martin Schulz, schulzm - at - in.tum.de
 
