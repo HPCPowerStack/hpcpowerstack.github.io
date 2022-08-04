@@ -47,62 +47,6 @@ This is a closed meeting and seating is limited! If you are interested in attend
 ### Time: Each day, 8 am to 5 pm (CDT)
 
 
-## Agenda (Tentative)
-
-### Novemeber 10th, 2022 (Thursday)
-
-- Community announcements: (30mins)
-	- REGALE updates (TUM/LRZ) 
-	- revisit topics/project presented in HiPEAC
-	- workshop paper on malleability (dyn. job size change) in powerstack
-	- HPE interest in GEOPM
- 
-- Community engagements (45 mins)
-	- Use cases & policies of powerstack
-		- REGALE directions
-			- Energy costs rising, opportunities for powerstack (Fugaku)
-			- Tradeoff between facility vs system level policies
-	 
-- Working topics / breakout sessions: (2 hrs) 
-	- internal sync + 30mins lessons learned (90 mins)
-	- compare past powerstack w/ latest trends
-	- missing gaps in the design of an integrated stack (invite Michael Ott)
-	- challenges faced by sites affecting the adoption of the stack
-
-
-
-### Novemeber 11th, 2022 (Friday)
- 
-- SW project updates (30mins)
-	- flux, LDMS, variorum - view from El Capitan
-	- GEOPM integration into the stack - systemd service
-	- REGALE prototypes
-	- updates from system integrator solutions (e.g., HPE's HPCM)
- 
-- Technical topics: (2 hrs )
-	- 90mins internal sync + 30mins lessons learned
-	- co-scheduling (unpublished work by REGALE team on perf. modeling)
-	- malleability (PBS features)
-	- co-Tuning (Argonne)
-	- workflow mgmt (power profiling of multiple workflows & binaries), also of interest for one of the REGALE prototypes design
-	- Integrating monitoring frameworks (like LDMS, DCDB) 
-	- resource mgrs (JSRM) & system level runtime systems for dynamic power mgmt 
-	- upcoming exascale system discussions - power mgmt stack design -- new design, redundant components
- 
-- Community input & future direction: (30mins) <-- needs more time
-	- what are the new SW components in the stack?
-	- charter of PowerStack
-	- reach a consensus on the different components needed within the PS
-	- reach a consensus on scope of PS, validation efforts
-	- where do we go from here
-	- virtual annual event, or more hands-on f2f?
-	- REGALE future plans
- 
-- Whitepaper
-	- Status: current status of existing projects & software stack; interface between the layers
-	- identify gaps 
-	- update old osti.gov paper
-	- include lessons learned from REGALE project (3 examples)
-	- changes in the stack by system integrators
+## Agenda: TBD
 
 [Back](./)
