@@ -20,8 +20,7 @@ The HPC PowerStack core-committee
 <p align="center"><font size="+1">November 10-11, 2022 (Thurs-Fri)<br/>In-person Event</font></p>
 
 The seminar on "The HPC PowerStack: Enabling Efficient Power Management in
-High-Performance Computing through Hierarchical Design" will be held digitially
-in June 2020. It will bring together experts from academia, research
+High-Performance Computing through Hierarchical Design" will be held in-person in November 2022 (Nov 10-11). It will bring together experts from academia, research
 laboratories and industry in order to design and engineer a holistic and
 extensible, deployable power management framework.  Such a framework could
 ultimately lead to standardization or - at least - homogenization efforts for
