@@ -31,7 +31,7 @@ This is a closed meeting and seating is limited! If you are interested in attend
 
 ## Meeting logistics:
 
-### Registration (free): <a href=""> TBD </a>
+### Registration (free): <a href=""> Form under construction </a>
 
 ### Shared drive for notes: <a href="https://drive.google.com/drive/folders/1QwVkTRtYYStt_hCNXNydCUzzm2luWJ26?usp=sharing"> Link for Nov'22 </a> (Includes notes from the working groups)
 
