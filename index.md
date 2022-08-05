@@ -64,9 +64,9 @@ which are being actively defined and developed, are listed below:
 * Todd Rosedahl, IBM, USA
 * Barry Rountree, Lawrence Livermore National Laboratory, USA
 * Ryuichi Sakamoto, University of Tokyo, Japan
-* Martin Schulz, Technical University Munich, Germany
+* Martin Schulz, Leibniz Supercomputing Centre / TUM, Germany
 * Carsten Trinitis, Technical University Munich, Germany
-* Joseph Weidendorfer, Technical University Munich, Germany
+* Josef Weidendorfer, Leibniz Supercomputing Centre / TUM, Germany
 * Torsten Wilde, Hewlett Packard Enterprise, Germany
 * Kazutomo Yoshii, Argonne National Lab, USA
 
