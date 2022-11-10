@@ -33,7 +33,11 @@ This is a closed meeting and seating is limited! If you are interested in attend
 
 ### <b>Agenda:</b> <a href="https://groups.google.com/g/powerstack-announce/c/eFhl9XzpIiA/m/cqFWPi2yBgAJ"> Day-1 Agenda </a>
 
-### RSVP (free): <a href="https://forms.gle/4vS5tKEhxmREngq89"> Link </a>
+### <b>Meeting link:</b> <a href="https://groups.google.com/g/powerstack-announce/c/zfvJz1Oq108/m/agFn6qWcBgAJ"> For Remote Attendees </a>
+
+### <b>Venue:</b> IBM Innovation Studio, 1177 S Belt Line Rd, Coppell TX 75019
+
+### Time: Each day, 9 am to 5 pm (CST, UTC-6)
 
 ### Shared drive for notes: <a href="https://drive.google.com/drive/folders/1QwVkTRtYYStt_hCNXNydCUzzm2luWJ26?usp=sharing"> Link for Nov'22 </a> (Includes notes from the working groups)
 
@@ -41,11 +45,10 @@ This is a closed meeting and seating is limited! If you are interested in attend
 
 ### Group mailing list: <a href="https://groups.google.com/forum/#!forum/powerstack-announce"> Archive and subscription list </a>
 
-### Venue: IBM Innovation Studio, 1177 S Belt Line Rd, Coppell TX 75019
 
 ### Accommodation: <a href="PS_2022_hotels.pdf"> List of nearby hotels </a>
 
-### Time: Each day, 9 am to 5 pm (CST, UTC-6)
 
+### RSVP: <a href="https://forms.gle/4vS5tKEhxmREngq89"> Link </a>
 
 [Back](./)
