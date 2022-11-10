@@ -33,7 +33,11 @@ This is a closed meeting and seating is limited! If you are interested in attend
 
 ### <b>Agenda:</b> <a href="https://groups.google.com/g/powerstack-announce/c/eFhl9XzpIiA/m/cqFWPi2yBgAJ"> Day-1 Agenda </a>
 
-### <b>Meeting link:</b> <a href="https://groups.google.com/g/powerstack-announce/c/zfvJz1Oq108/m/agFn6qWcBgAJ"> For Remote Attendees </a>
+### <b>Meeting link:</b> <a href="https://ibm.webex.com/meet/rosedahl"> For Remote Attendees </a>
+<p Phone Number is 1-844-531-0958> </p>
+<p Meeting number: 926 262 403> </p>
+<p Just hit # for your attendee #> </p>
+
 
 ### <b>Venue:</b> IBM Innovation Studio, 1177 S Belt Line Rd, Coppell TX 75019
 
