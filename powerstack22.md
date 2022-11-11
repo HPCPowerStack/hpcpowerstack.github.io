@@ -31,29 +31,25 @@ This is a closed meeting and seating is limited! If you are interested in attend
 
 ## Meeting logistics:
 
-### <b>Agenda:</b> <a href="https://groups.google.com/g/powerstack-announce/c/eFhl9XzpIiA/m/cqFWPi2yBgAJ"> Day-1 Agenda </a>
+* <b>Agenda:</b> <a href="https://groups.google.com/g/powerstack-announce/c/eFhl9XzpIiA/m/cqFWPi2yBgAJ"> Day-1 Agenda </a>
 
-### <b>Meeting link:</b> <a href="https://ibm.webex.com/meet/rosedahl"> For Remote Attendees </a>
--------------- | -------------
-Phone Number   | +1-844-531-0958
-Meeting Number | 926 262 403
-Attendee #     | Just hit #
+* <b>Meeting link:</b> <a href="https://ibm.webex.com/meet/rosedahl"> For Remote Attendees </a>
+	* Phone Number   | +1-844-531-0958
+	* Meeting Number | 926 262 403
+	* Attendee #     | Just hit #
 
+* <b>Venue:</b> IBM Innovation Studio, 1177 S Belt Line Rd, Coppell TX 75019
 
-### <b>Venue:</b> IBM Innovation Studio, 1177 S Belt Line Rd, Coppell TX 75019
+* Time: Each day, 9 am to 5 pm (CST, UTC-6)
 
-### Time: Each day, 9 am to 5 pm (CST, UTC-6)
+* Shared drive for notes: <a href="https://drive.google.com/drive/folders/1QwVkTRtYYStt_hCNXNydCUzzm2luWJ26?usp=sharing"> Link for Nov'22 </a> (Includes notes from the working groups)
 
-### Shared drive for notes: <a href="https://drive.google.com/drive/folders/1QwVkTRtYYStt_hCNXNydCUzzm2luWJ26?usp=sharing"> Link for Nov'22 </a> (Includes notes from the working groups)
+* Slack channel: <a href="https://powerstack.slack.com/"> Link </a>
 
-### Slack channel: <a href="https://powerstack.slack.com/"> Link </a>
+* Group mailing list: <a href="https://groups.google.com/forum/#!forum/powerstack-announce"> Archive and subscription list </a>
 
-### Group mailing list: <a href="https://groups.google.com/forum/#!forum/powerstack-announce"> Archive and subscription list </a>
+* Accommodation: <a href="PS_2022_hotels.pdf"> List of nearby hotels </a>
 
-
-### Accommodation: <a href="PS_2022_hotels.pdf"> List of nearby hotels </a>
-
-
-### RSVP: <a href="https://forms.gle/4vS5tKEhxmREngq89"> Link </a>
+* RSVP: <a href="https://forms.gle/4vS5tKEhxmREngq89"> Link </a>
 
 [Back](./)
