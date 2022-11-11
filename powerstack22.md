@@ -31,18 +31,18 @@ This is a closed meeting and seating is limited! If you are interested in attend
 
 ## Meeting logistics:
 
-* <b>Agenda:</b> <a href="https://groups.google.com/g/powerstack-announce/c/eFhl9XzpIiA/m/cqFWPi2yBgAJ"> Day-1 Agenda </a>
+* <b>Agenda:</b> <a href="https://groups.google.com/g/powerstack-announce/c/Xc4L9QyJVA4/m/2j7zG6cNAAAJ"> Day-2 Agenda </a>
 
 * <b>Meeting link:</b> <a href="https://ibm.webex.com/meet/rosedahl"> For Remote Attendees </a>
-	* Phone Number   | +1-844-531-0958
-	* Meeting Number | 926 262 403
-	* Attendee #     | Just hit #
+	* Phone Number: +1-844-531-0958
+	* Meeting Number: 926 262 403
+	* Attendee Number: Just hit #
 
 * <b>Venue:</b> IBM Innovation Studio, 1177 S Belt Line Rd, Coppell TX 75019
 
-* Time: Each day, 9 am to 5 pm (CST, UTC-6)
+* Time: Each day, 9 am to 4 pm (CST, UTC-6)
 
-* Shared drive for notes: <a href="https://drive.google.com/drive/folders/1QwVkTRtYYStt_hCNXNydCUzzm2luWJ26?usp=sharing"> Link for Nov'22 </a> (Includes notes from the working groups)
+* Shared drive for notes: <a href="https://drive.google.com/drive/folders/1QwVkTRtYYStt_hCNXNydCUzzm2luWJ26?usp=sharing"> Link for Nov'22 </a> (Including recordings)
 
 * Slack channel: <a href="https://powerstack.slack.com/"> Link </a>
 
